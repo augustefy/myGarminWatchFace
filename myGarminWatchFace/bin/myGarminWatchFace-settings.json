@@ -1,9 +1,9 @@
 {
   "settings" : [ {
-    "key" : "BackgroundColor",
+    "key" : "Theme",
     "valueType" : "number",
     "defaultValue" : 0,
-    "configTitle" : "BackgroundColorTitle",
+    "configTitle" : "ThemeTitle",
     "configPrompt" : null,
     "configType" : "list",
     "configError" : null,
@@ -11,26 +11,20 @@
     "configReadonly" : false,
     "configRequired" : false,
     "configOptions" : [ {
-      "display" : "ColorBlack",
+      "display" : "ThemeLight",
       "value" : 0
     }, {
-      "display" : "ColorDarkGray",
-      "value" : 5592405
-    }, {
-      "display" : "ColorLightGray",
-      "value" : 11184810
-    }, {
-      "display" : "ColorWhite",
-      "value" : 16777215
+      "display" : "ThemeDark",
+      "value" : 1
     } ],
     "configMin" : null,
     "configMax" : null,
     "configMaxLength" : null
   }, {
-    "key" : "ForegroundColor",
+    "key" : "AccentColor",
     "valueType" : "number",
-    "defaultValue" : 16711680,
-    "configTitle" : "ForegroundColorTitle",
+    "defaultValue" : 16738816,
+    "configTitle" : "AccentTitle",
     "configPrompt" : null,
     "configType" : "list",
     "configError" : null,
@@ -38,49 +32,61 @@
     "configReadonly" : false,
     "configRequired" : false,
     "configOptions" : [ {
-      "display" : "ColorBlack",
-      "value" : 0
+      "display" : "AccentOrange",
+      "value" : 16738816
     }, {
-      "display" : "ColorBlue",
-      "value" : 255
+      "display" : "AccentRed",
+      "value" : 15020589
     }, {
-      "display" : "ColorRed",
-      "value" : 16711680
+      "display" : "AccentBlue",
+      "value" : 3122407
     }, {
-      "display" : "ColorWhite",
-      "value" : 16777215
+      "display" : "AccentGreen",
+      "value" : 4179050
+    }, {
+      "display" : "AccentGold",
+      "value" : 13936428
     } ],
-    "configMin" : null,
-    "configMax" : null,
-    "configMaxLength" : null
-  }, {
-    "key" : "UseMilitaryFormat",
-    "valueType" : "boolean",
-    "defaultValue" : false,
-    "configTitle" : "MilitaryFormatTitle",
-    "configPrompt" : null,
-    "configType" : "boolean",
-    "configError" : null,
-    "configHelpUrl" : null,
-    "configReadonly" : false,
-    "configRequired" : false,
-    "configOptions" : null,
     "configMin" : null,
     "configMax" : null,
     "configMaxLength" : null
   } ],
   "supportsLiveValidation" : false,
   "languages" : {
+    "fra" : {
+      "ThemeLight" : "Clair",
+      "ThemeTitle" : "Cadran",
+      "AccentOrange" : "Orange",
+      "AccentTitle" : "Couleur d'accent",
+      "AccentBlue" : "Bleu",
+      "AccentGreen" : "Vert",
+      "AccentGold" : "Or",
+      "ThemeDark" : "Sombre",
+      "AccentRed" : "Rouge",
+      "AppName" : "myGarminWatchFace"
+    },
+    "fre" : {
+      "ThemeLight" : "Clair",
+      "ThemeTitle" : "Cadran",
+      "AccentOrange" : "Orange",
+      "AccentTitle" : "Couleur d'accent",
+      "AccentBlue" : "Bleu",
+      "AccentGreen" : "Vert",
+      "AccentGold" : "Or",
+      "ThemeDark" : "Sombre",
+      "AccentRed" : "Rouge",
+      "AppName" : "myGarminWatchFace"
+    },
     "valyrian" : {
-      "ColorLightGray" : "Light Gray",
-      "ColorBlue" : "Blue",
-      "ColorRed" : "Red",
-      "ForegroundColorTitle" : "Foreground Color",
-      "BackgroundColorTitle" : "Background Color",
-      "ColorDarkGray" : "Dark Gray",
-      "MilitaryFormatTitle" : "Military Format for 24 Hour Time",
-      "ColorBlack" : "Black",
-      "ColorWhite" : "White",
+      "ThemeLight" : "Light",
+      "ThemeTitle" : "Dial",
+      "AccentOrange" : "Orange",
+      "AccentTitle" : "Accent color",
+      "AccentBlue" : "Blue",
+      "AccentGreen" : "Green",
+      "AccentGold" : "Gold",
+      "ThemeDark" : "Dark",
+      "AccentRed" : "Red",
       "AppName" : "myGarminWatchFace"
     }
   }

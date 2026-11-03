@@ -1,25 +1,20 @@
 <settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://developer.garmin.com/downloads/connect-iq/resources.xsd">
 
-    <setting propertyKey="@Properties.BackgroundColor" title="@Strings.BackgroundColorTitle">
+    <setting propertyKey="@Properties.Theme" title="@Strings.ThemeTitle">
         <settingConfig type="list">
-            <listEntry value="0x000000">@Strings.ColorBlack</listEntry>
-            <listEntry value="0x555555">@Strings.ColorDarkGray</listEntry>
-            <listEntry value="0xAAAAAA">@Strings.ColorLightGray</listEntry>
-            <listEntry value="0xFFFFFF">@Strings.ColorWhite</listEntry>
+            <listEntry value="0">@Strings.ThemeLight</listEntry>
+            <listEntry value="1">@Strings.ThemeDark</listEntry>
         </settingConfig>
     </setting>
 
-    <setting propertyKey="@Properties.ForegroundColor" title="@Strings.ForegroundColorTitle">
+    <setting propertyKey="@Properties.AccentColor" title="@Strings.AccentTitle">
         <settingConfig type="list">
-            <listEntry value="0x000000">@Strings.ColorBlack</listEntry>
-            <listEntry value="0x0000FF">@Strings.ColorBlue</listEntry>
-            <listEntry value="0xFF0000">@Strings.ColorRed</listEntry>
-            <listEntry value="0xFFFFFF">@Strings.ColorWhite</listEntry>
+            <listEntry value="0xFF6A00">@Strings.AccentOrange</listEntry>
+            <listEntry value="0xE5322D">@Strings.AccentRed</listEntry>
+            <listEntry value="0x2FA4E7">@Strings.AccentBlue</listEntry>
+            <listEntry value="0x3FC46A">@Strings.AccentGreen</listEntry>
+            <listEntry value="0xD4A72C">@Strings.AccentGold</listEntry>
         </settingConfig>
-    </setting>
-
-    <setting propertyKey="@Properties.UseMilitaryFormat" title="@Strings.MilitaryFormatTitle">
-        <settingConfig type="boolean" />
     </setting>
 
 </settings>

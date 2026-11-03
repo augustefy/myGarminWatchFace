@@ -1,0 +1,298 @@
+[ @file = "/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc"; @line = 1; @symbol_importdef<0> = [Toybox,1,7,13]; @symbol_importdef<1> = [Application,1,14,25]; ]
+import Toybox.Application;
+[ @file = "/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc"; @line = 2; @symbol_importdef<0> = [Toybox,2,7,13]; @symbol_importdef<1> = [Background,2,14,24]; ]
+import Toybox.Background;
+[ @file = "/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc"; @line = 3; @symbol_importdef<0> = [Toybox,3,7,13]; @symbol_importdef<1> = [Communications,3,14,28]; ]
+import Toybox.Communications;
+[ @file = "/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc"; @line = 4; @symbol_importdef<0> = [Toybox,4,7,13]; @symbol_importdef<1> = [Lang,4,14,18]; ]
+import Toybox.Lang;
+[ @file = "/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc"; @line = 5; @symbol_importdef<0> = [Toybox,5,7,13]; @symbol_importdef<1> = [System,5,14,20]; ]
+import Toybox.System;
+[ @file = "/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc"; @line = 6; @symbol_importdef<0> = [Toybox,6,7,13]; @symbol_importdef<1> = [Time,6,14,18]; ]
+import Toybox.Time;
+[ @file = "/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc"; @line = 10; background = true; @symbol_classdef = [TemperatureService,10,6,24]; @symbol_extends<0> = [System,10,33,39]; @symbol_extends<1> = [ServiceDelegate,10,40,55]; ]
+class TemperatureService extends System.ServiceDelegate {
+    [ @file = "/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc"; @line = 10; ]
+    <init> {
+    }
+    [ @file = "/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc"; @line = 10; ]
+    static
+    <init> {
+    }
+    [ @file = "/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc"; @line = 12; @symbol_functiondef = [initialize,12,13,23]; ]
+    function initialize() as Void {
+_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_12_26_14_4_start:
+[ "/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc" 13 8 ]
+        symbol [ ServiceDelegate %tmp.2 13 8 23 ];
+        %tmp.2 = getv ? :ServiceDelegate;
+        symbol [ initialize %tmp.3 13 24 34 ];
+        %tmp.3 = getv function %tmp.2 :initialize;
+        invoke %tmp.2 %tmp.3();
+_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_12_26_14_4_stop:
+    }
+    [ @file = "/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc"; @line = 16; @symbol_functiondef = [onTemporalEvent,16,13,28]; ]
+    function onTemporalEvent() as Void {
+_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_16_39_36_4_start:
+[ "/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc" 17 8 ]
+        [ "_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_16_39_36_4_start" "_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_16_39_36_4_stop" ]
+        %lat.1 = local;
+        symbol [ lat %lat.1 17 12 15 ];
+        symbol [ Application %tmp.1 17 18 29 ];
+        %tmp.1 = getm $.Toybox.Application;
+        symbol [ Storage %tmp.2 17 30 37 ];
+        %tmp.2 = getv %tmp.1 :Storage;
+        symbol [ getValue %tmp.3 17 38 46 ];
+        %tmp.3 = getv function %tmp.2 :getValue;
+        %tmp.4 = "lat";
+        %tmp.5 = invoke %tmp.2 %tmp.3(%tmp.4);
+        lputv %lat.1 %tmp.5;
+        symbol [ lat %lat.1 17 12 15 ];
+[ "/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc" 18 8 ]
+        [ "_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_16_39_36_4_start" "_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_16_39_36_4_stop" ]
+        %lon.2 = local;
+        symbol [ lon %lon.2 18 12 15 ];
+        symbol [ Application %tmp.6 18 18 29 ];
+        %tmp.6 = getm $.Toybox.Application;
+        symbol [ Storage %tmp.7 18 30 37 ];
+        %tmp.7 = getv %tmp.6 :Storage;
+        symbol [ getValue %tmp.8 18 38 46 ];
+        %tmp.8 = getv function %tmp.7 :getValue;
+        %tmp.9 = "lon";
+        %tmp.10 = invoke %tmp.7 %tmp.8(%tmp.9);
+        lputv %lon.2 %tmp.10;
+        symbol [ lon %lon.2 18 12 15 ];
+[ "/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc" 19 8 ]
+_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_19_8_22_8_if_stmt:
+_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_19_12_19_61_begin:
+        %tmp.11 = lgetv %lat.1;
+        symbol [ lat %tmp.11 19 14 17 ];
+        symbol [ Float %tmp.13 19 29 34 ];
+        %tmp.13 = getv ? :Float;
+        %tmp.14 = isa %tmp.11 %tmp.13;
+        %tmp.15 = not %tmp.14;
+        bt %tmp.15 @_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_19_8_22_8_if_true;
+_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_19_39_19_61_false:
+        %tmp.16 = lgetv %lon.2;
+        symbol [ lon %tmp.16 19 41 44 ];
+        symbol [ Float %tmp.18 19 56 61 ];
+        %tmp.18 = getv ? :Float;
+        %tmp.19 = isa %tmp.16 %tmp.18;
+        %tmp.20 = not %tmp.19;
+        push %tmp.20;
+_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_19_39_19_61_end:
+        %tmp.21 = phi [%tmp.15 @_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_19_12_19_61_begin] [%tmp.20 @_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_19_39_19_61_false] [%tmp.21 @_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_19_39_19_61_end];
+        bf %tmp.21 @_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_19_8_22_8_if_end;
+_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_19_8_22_8_if_true:
+_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_19_64_22_8_start:
+[ "/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc" 20 12 ]
+        symbol [ Background %tmp.22 20 12 22 ];
+        %tmp.22 = getm $.Toybox.Background;
+        symbol [ exit %tmp.23 20 23 27 ];
+        %tmp.23 = getv function %tmp.22 :exit;
+        %tmp.24 = null;
+        invoke %tmp.22 %tmp.23(%tmp.24);
+[ "/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc" 21 12 ]
+        ret ?;
+_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_19_64_22_8_stop:
+        goto @_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_19_8_22_8_if_end;
+_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_19_8_22_8_if_end:
+[ "/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc" 23 8 ]
+        symbol [ Communications %tmp.25 23 8 22 ];
+        %tmp.25 = getm $.Toybox.Communications;
+        symbol [ makeWebRequest %tmp.26 23 23 37 ];
+        %tmp.26 = getv function %tmp.25 :makeWebRequest;
+        %tmp.27 = "https://api.open-meteo.com/v1/forecast";
+        %tmp.28 = newd 3;
+        %tmp.29 = "latitude";
+        %tmp.30 = lgetv %lat.1;
+        symbol [ lat %tmp.30 26 30 33 ];
+        symbol [ format %tmp.31 26 34 40 ];
+        %tmp.31 = getv function %tmp.30 :format;
+        %tmp.32 = "%.3f";
+        %tmp.33 = invoke %tmp.30 %tmp.31(%tmp.32);
+        %tmp.34 = dup %tmp.28;
+        %tmp.35 = aputv %tmp.34 %tmp.29 %tmp.33;
+        %tmp.36 = "longitude";
+        %tmp.37 = lgetv %lon.2;
+        symbol [ lon %tmp.37 27 31 34 ];
+        symbol [ format %tmp.38 27 35 41 ];
+        %tmp.38 = getv function %tmp.37 :format;
+        %tmp.39 = "%.3f";
+        %tmp.40 = invoke %tmp.37 %tmp.38(%tmp.39);
+        %tmp.41 = dup %tmp.35;
+        %tmp.42 = aputv %tmp.41 %tmp.36 %tmp.40;
+        %tmp.43 = "current";
+        %tmp.44 = "temperature_2m";
+        %tmp.45 = dup %tmp.42;
+        %tmp.46 = aputv %tmp.45 %tmp.43 %tmp.44;
+        %tmp.47 = newd 2;
+        %tmp.49 = const :method;
+        symbol [ method %tmp.49 31 17 23 const ];
+        symbol [ Communications %tmp.50 31 27 41 ];
+        %tmp.50 = getm $.Toybox.Communications;
+        symbol [ HTTP_REQUEST_METHOD_GET %tmp.51 31 42 65 ];
+        %tmp.51 = getv %tmp.50 :HTTP_REQUEST_METHOD_GET;
+        %tmp.52 = dup %tmp.47;
+        %tmp.53 = aputv %tmp.52 %tmp.49 %tmp.51;
+        %tmp.55 = const :responseType;
+        symbol [ responseType %tmp.55 32 17 29 const ];
+        symbol [ Communications %tmp.56 32 33 47 ];
+        %tmp.56 = getm $.Toybox.Communications;
+        symbol [ HTTP_RESPONSE_CONTENT_TYPE_JSON %tmp.57 32 48 79 ];
+        %tmp.57 = getv %tmp.56 :HTTP_RESPONSE_CONTENT_TYPE_JSON;
+        %tmp.58 = dup %tmp.53;
+        %tmp.59 = aputv %tmp.58 %tmp.55 %tmp.57;
+        %tmp.60 = self;
+        symbol [ method %tmp.61 34 12 18 ];
+        %tmp.61 = getv function %tmp.60 :method;
+        %tmp.63 = const :onResponse;
+        symbol [ onResponse %tmp.63 34 20 30 const ];
+        %tmp.64 = invoke %tmp.60 %tmp.61(%tmp.63);
+        invoke %tmp.25 %tmp.26(%tmp.27, %tmp.46, %tmp.59, %tmp.64);
+_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_16_39_36_4_stop:
+    }
+    [ @file = "/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc"; @line = 38; @symbol_functiondef = [onResponse,38,13,23]; @symbol_param<0> = [code,38,24,28]; @symbol_param<0>_type<0> = [Number,38,32,38]; @symbol_param<1> = [data,38,40,44]; @symbol_param<1>_type<0> = [Dictionary,38,48,58]; @symbol_param<1>_type<1> = [String,38,62,68]; ]
+    function onResponse(code as Number, data as Dictionary or String or Null) as Void {
+_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_38_86_51_4_start:
+[ "/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc" 39 8 ]
+        [ "_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_38_86_51_4_start" "_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_38_86_51_4_stop" ]
+        %temp.1 = local;
+        symbol [ temp %temp.1 39 12 16 ];
+        %tmp.1 = null;
+        lputv %temp.1 %tmp.1;
+        symbol [ temp %temp.1 39 12 16 ];
+[ "/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc" 40 8 ]
+_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_40_8_45_8_if_stmt:
+_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_40_12_40_43_begin:
+        %tmp.2 = lgetv %code;
+        symbol [ code %tmp.2 40 12 16 ];
+        %tmp.3 = 200;
+        %tmp.4 = eq %tmp.2 %tmp.3;
+        bf %tmp.4 @_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_40_8_45_8_if_end;
+_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_40_27_40_43_true:
+        %tmp.5 = lgetv %data;
+        symbol [ data %tmp.5 40 27 31 ];
+        symbol [ Dictionary %tmp.7 40 43 53 ];
+        %tmp.7 = getv ? :Dictionary;
+        %tmp.8 = isa %tmp.5 %tmp.7;
+        push %tmp.8;
+_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_40_27_40_43_end:
+        %tmp.9 = phi [%tmp.4 @_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_40_12_40_43_begin] [%tmp.8 @_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_40_27_40_43_true] [%tmp.9 @_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_40_27_40_43_end];
+        bf %tmp.9 @_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_40_8_45_8_if_end;
+_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_40_8_45_8_if_true:
+_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_40_55_45_8_start:
+[ "/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc" 41 12 ]
+        [ "_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_40_55_45_8_start" "_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_40_55_45_8_stop" ]
+        %current.2 = local;
+        symbol [ current %current.2 41 16 23 ];
+        %tmp.10 = lgetv %data;
+        symbol [ data %tmp.10 41 26 30 ];
+        %tmp.11 = as %tmp.10 { (Dictionary) };
+        %tmp.12 = "current";
+        %tmp.13 = agetv %tmp.11 %tmp.12;
+        lputv %current.2 %tmp.13;
+        symbol [ current %current.2 41 16 23 ];
+[ "/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc" 42 12 ]
+_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_42_12_44_12_if_stmt:
+        %tmp.14 = lgetv %current.2;
+        symbol [ current %tmp.14 42 16 23 ];
+        symbol [ Dictionary %tmp.16 42 35 45 ];
+        %tmp.16 = getv ? :Dictionary;
+        %tmp.17 = isa %tmp.14 %tmp.16;
+        bf %tmp.17 @_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_42_12_44_12_if_end;
+_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_42_12_44_12_if_true:
+_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_42_47_44_12_start:
+[ "/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc" 43 16 ]
+        %tmp.18 = lgetv %current.2;
+        symbol [ current %tmp.18 43 23 30 ];
+        %tmp.19 = as %tmp.18 { (Dictionary) };
+        %tmp.20 = "temperature_2m";
+        %tmp.21 = agetv %tmp.19 %tmp.20;
+        lputv %temp.1 %tmp.21;
+        symbol [ temp %temp.1 43 16 20 ];
+_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_42_47_44_12_stop:
+        goto @_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_42_12_44_12_if_end;
+_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_42_12_44_12_if_end:
+_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_40_55_45_8_stop:
+        goto @_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_40_8_45_8_if_end;
+_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_40_8_45_8_if_end:
+[ "/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc" 46 8 ]
+_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_46_8_50_8_if_stmt:
+_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_46_12_46_79_begin:
+_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_46_12_46_54_begin:
+        %tmp.22 = lgetv %temp.1;
+        symbol [ temp %tmp.22 46 12 16 ];
+        symbol [ Number %tmp.24 46 28 34 ];
+        %tmp.24 = getv ? :Number;
+        %tmp.25 = isa %tmp.22 %tmp.24;
+        bt %tmp.25 @_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_46_8_50_8_if_true;
+_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_46_38_46_54_false:
+        %tmp.26 = lgetv %temp.1;
+        symbol [ temp %tmp.26 46 38 42 ];
+        %tmp.27 = as %tmp.26 { (!Number) };
+        symbol [ Float %tmp.29 46 54 59 ];
+        %tmp.29 = getv ? :Float;
+        %tmp.30 = isa %tmp.27 %tmp.29;
+        push %tmp.30;
+_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_46_38_46_54_end:
+        %tmp.31 = phi [%tmp.25 @_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_46_12_46_54_begin] [%tmp.30 @_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_46_38_46_54_false] [%tmp.31 @_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_46_38_46_54_end];
+        bt %tmp.31 @_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_46_8_50_8_if_true;
+_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_46_63_46_79_false:
+        %tmp.32 = lgetv %temp.1;
+        symbol [ temp %tmp.32 46 63 67 ];
+        %tmp.33 = as %tmp.32 { (!Number) && (!Float) };
+        symbol [ Double %tmp.35 46 79 85 ];
+        %tmp.35 = getv ? :Double;
+        %tmp.36 = isa %tmp.33 %tmp.35;
+        push %tmp.36;
+_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_46_63_46_79_end:
+        %tmp.37 = phi [%tmp.31 @_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_46_12_46_79_begin] [%tmp.36 @_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_46_63_46_79_false] [%tmp.37 @_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_46_63_46_79_end];
+        bf %tmp.37 @_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_46_8_50_8_if_else_false;
+_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_46_8_50_8_if_true:
+_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_46_87_48_8_start:
+[ "/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc" 47 12 ]
+        symbol [ Background %tmp.38 47 12 22 ];
+        %tmp.38 = getm $.Toybox.Background;
+        symbol [ exit %tmp.39 47 23 27 ];
+        %tmp.39 = getv function %tmp.38 :exit;
+        %tmp.40 = newd 2;
+        %tmp.41 = "temp";
+        %tmp.42 = lgetv %temp.1;
+        symbol [ temp %tmp.42 47 39 43 ];
+        %tmp.43 = as %tmp.42 { (Number || Float || Double) };
+        symbol [ toFloat %tmp.44 47 44 51 ];
+        %tmp.44 = getv function %tmp.43 :toFloat;
+        %tmp.45 = invoke %tmp.43 %tmp.44();
+        %tmp.46 = dup %tmp.40;
+        %tmp.47 = aputv %tmp.46 %tmp.41 %tmp.45;
+        %tmp.48 = "at";
+        symbol [ Time %tmp.49 47 63 67 ];
+        %tmp.49 = getm $.Toybox.Time;
+        symbol [ now %tmp.50 47 68 71 ];
+        %tmp.50 = getv function %tmp.49 :now;
+        %tmp.51 = invoke %tmp.49 %tmp.50();
+        symbol [ value %tmp.52 47 74 79 ];
+        %tmp.52 = getv function %tmp.51 :value;
+        %tmp.53 = invoke %tmp.51 %tmp.52();
+        %tmp.54 = dup %tmp.47;
+        %tmp.55 = aputv %tmp.54 %tmp.48 %tmp.53;
+        invoke %tmp.38 %tmp.39(%tmp.55);
+_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_46_87_48_8_stop:
+        goto @_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_46_8_50_8_if_end;
+_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_46_8_50_8_if_else_false:
+_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_48_15_50_8_start:
+[ "/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc" 49 12 ]
+        symbol [ Background %tmp.56 49 12 22 ];
+        %tmp.56 = getm $.Toybox.Background;
+        symbol [ exit %tmp.57 49 23 27 ];
+        %tmp.57 = getv function %tmp.56 :exit;
+        %tmp.58 = null;
+        invoke %tmp.56 %tmp.57(%tmp.58);
+_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_48_15_50_8_stop:
+_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_46_8_50_8_if_end:
+_Users_augustefleury_Code_myGarminWatchFace_myGarminWatchFace_source_TemperatureService_mc_38_86_51_4_stop:
+    }
+}
+[ @file = "/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc"; @line = 1; ]
+<init> {
+}

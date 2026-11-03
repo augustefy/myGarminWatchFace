@@ -1,0 +1,1259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc" id="1" lineNum="10" parent="globals/TemperatureService" pc="268435457" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceApp.mc" id="2" lineNum="9" parent="globals/myGarminWatchFaceApp" pc="268435469" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc" id="3" lineNum="38" parent="globals/TemperatureService" pc="268435481" symbol="onResponse"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc" id="3" lineNum="39" parent="globals/TemperatureService" pc="268435484" symbol="onResponse"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc" id="3" lineNum="40" parent="globals/TemperatureService" pc="268435487" symbol="onResponse"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc" id="3" lineNum="41" parent="globals/TemperatureService" pc="268435511" symbol="onResponse"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc" id="3" lineNum="42" parent="globals/TemperatureService" pc="268435521" symbol="onResponse"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc" id="3" lineNum="43" parent="globals/TemperatureService" pc="268435536" symbol="onResponse"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc" id="3" lineNum="46" parent="globals/TemperatureService" pc="268435546" symbol="onResponse"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc" id="3" lineNum="47" parent="globals/TemperatureService" pc="268435591" symbol="onResponse"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc" id="3" lineNum="49" parent="globals/TemperatureService" pc="268435646" symbol="onResponse"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc" id="4" lineNum="16" parent="globals/TemperatureService" pc="268435661" symbol="onTemporalEvent"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc" id="4" lineNum="17" parent="globals/TemperatureService" pc="268435664" symbol="onTemporalEvent"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc" id="4" lineNum="18" parent="globals/TemperatureService" pc="268435683" symbol="onTemporalEvent"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc" id="4" lineNum="19" parent="globals/TemperatureService" pc="268435702" symbol="onTemporalEvent"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc" id="4" lineNum="20" parent="globals/TemperatureService" pc="268435734" symbol="onTemporalEvent"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc" id="4" lineNum="21" parent="globals/TemperatureService" pc="268435748" symbol="onTemporalEvent"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc" id="4" lineNum="23" parent="globals/TemperatureService" pc="268435749" symbol="onTemporalEvent"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc" id="5" lineNum="12" parent="globals/TemperatureService" pc="268435848" symbol="initialize"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/TemperatureService.mc" id="5" lineNum="13" parent="globals/TemperatureService" pc="268435850" symbol="initialize"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceApp.mc" id="7" lineNum="49" parent="globals/myGarminWatchFaceApp" pc="268435863" symbol="onSettingsChanged"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceApp.mc" id="7" lineNum="50" parent="globals/myGarminWatchFaceApp" pc="268435865" symbol="onSettingsChanged"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceApp.mc" id="7" lineNum="51" parent="globals/myGarminWatchFaceApp" pc="268435874" symbol="onSettingsChanged"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceApp.mc" id="7" lineNum="53" parent="globals/myGarminWatchFaceApp" pc="268435886" symbol="onSettingsChanged"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceApp.mc" id="8" lineNum="35" parent="globals/myGarminWatchFaceApp" pc="268435898" symbol="getServiceDelegate"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceApp.mc" id="8" lineNum="36" parent="globals/myGarminWatchFaceApp" pc="268435900" symbol="getServiceDelegate"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceApp.mc" id="9" lineNum="26" parent="globals/myGarminWatchFaceApp" pc="268435926" symbol="getInitialView"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceApp.mc" id="9" lineNum="28" parent="globals/myGarminWatchFaceApp" pc="268435928" symbol="getInitialView"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceApp.mc" id="9" lineNum="29" parent="globals/myGarminWatchFaceApp" pc="268435943" symbol="getInitialView"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceApp.mc" id="9" lineNum="31" parent="globals/myGarminWatchFaceApp" pc="268435981" symbol="getInitialView"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceApp.mc" id="9" lineNum="32" parent="globals/myGarminWatchFaceApp" pc="268436006" symbol="getInitialView"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceApp.mc" id="10" lineNum="13" parent="globals/myGarminWatchFaceApp" pc="268436019" symbol="initialize"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceApp.mc" id="10" lineNum="14" parent="globals/myGarminWatchFaceApp" pc="268436021" symbol="initialize"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceApp.mc" id="11" lineNum="40" parent="globals/myGarminWatchFaceApp" pc="268436034" symbol="onBackgroundData"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceApp.mc" id="11" lineNum="41" parent="globals/myGarminWatchFaceApp" pc="268436036" symbol="onBackgroundData"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceApp.mc" id="11" lineNum="42" parent="globals/myGarminWatchFaceApp" pc="268436051" symbol="onBackgroundData"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceApp.mc" id="11" lineNum="43" parent="globals/myGarminWatchFaceApp" pc="268436077" symbol="onBackgroundData"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceApp.mc" id="11" lineNum="44" parent="globals/myGarminWatchFaceApp" pc="268436103" symbol="onBackgroundData"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceApp.mc" id="13" lineNum="58" parent="globals" pc="268436115" symbol="getApp"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceApp.mc" id="13" lineNum="59" parent="globals" pc="268436125" symbol="getApp"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/bin/gen/006-B4631-00/source/Rez.mcgen" id="14" lineNum="705" parent="globals/Rez" pc="268436136" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="15" lineNum="16" parent="globals/myGarminWatchFaceView" pc="268436156" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="16" lineNum="445" parent="globals/myGarminWatchFaceView" pc="268436168" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawNumerals&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="16" lineNum="446" parent="globals/myGarminWatchFaceView" pc="268436171" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawNumerals&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="16" lineNum="447" parent="globals/myGarminWatchFaceView" pc="268436188" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawNumerals&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="16" lineNum="448" parent="globals/myGarminWatchFaceView" pc="268436200" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawNumerals&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="16" lineNum="449" parent="globals/myGarminWatchFaceView" pc="268436226" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawNumerals&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="17" lineNum="658" parent="globals/myGarminWatchFaceView" pc="268436270" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawStar&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="17" lineNum="659" parent="globals/myGarminWatchFaceView" pc="268436272" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawStar&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="18" lineNum="460" parent="globals/myGarminWatchFaceView" pc="268436531" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawWeekdays&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="18" lineNum="462" parent="globals/myGarminWatchFaceView" pc="268436534" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawWeekdays&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="18" lineNum="463" parent="globals/myGarminWatchFaceView" pc="268436544" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawWeekdays&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="18" lineNum="464" parent="globals/myGarminWatchFaceView" pc="268436555" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawWeekdays&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="18" lineNum="465" parent="globals/myGarminWatchFaceView" pc="268436565" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawWeekdays&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="18" lineNum="466" parent="globals/myGarminWatchFaceView" pc="268436598" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawWeekdays&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="18" lineNum="467" parent="globals/myGarminWatchFaceView" pc="268436630" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawWeekdays&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="18" lineNum="468" parent="globals/myGarminWatchFaceView" pc="268436638" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawWeekdays&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="18" lineNum="469" parent="globals/myGarminWatchFaceView" pc="268436661" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawWeekdays&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="19" lineNum="636" parent="globals/myGarminWatchFaceView" pc="268436696" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleepScore&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="19" lineNum="637" parent="globals/myGarminWatchFaceView" pc="268436699" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleepScore&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="19" lineNum="638" parent="globals/myGarminWatchFaceView" pc="268436712" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleepScore&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="19" lineNum="639" parent="globals/myGarminWatchFaceView" pc="268436719" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleepScore&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="19" lineNum="640" parent="globals/myGarminWatchFaceView" pc="268436736" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleepScore&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="19" lineNum="641" parent="globals/myGarminWatchFaceView" pc="268436768" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleepScore&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="19" lineNum="642" parent="globals/myGarminWatchFaceView" pc="268436781" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleepScore&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="19" lineNum="644" parent="globals/myGarminWatchFaceView" pc="268436826" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleepScore&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="19" lineNum="645" parent="globals/myGarminWatchFaceView" pc="268436843" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleepScore&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="19" lineNum="648" parent="globals/myGarminWatchFaceView" pc="268436886" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleepScore&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="19" lineNum="649" parent="globals/myGarminWatchFaceView" pc="268436896" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleepScore&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="19" lineNum="650" parent="globals/myGarminWatchFaceView" pc="268436910" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleepScore&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="19" lineNum="651" parent="globals/myGarminWatchFaceView" pc="268436929" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleepScore&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="19" lineNum="652" parent="globals/myGarminWatchFaceView" pc="268436946" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleepScore&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="19" lineNum="653" parent="globals/myGarminWatchFaceView" pc="268436968" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleepScore&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="19" lineNum="654" parent="globals/myGarminWatchFaceView" pc="268436982" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleepScore&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="19" lineNum="655" parent="globals/myGarminWatchFaceView" pc="268437008" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleepScore&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="20" lineNum="583" parent="globals/myGarminWatchFaceView" pc="268437035" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHeartIcon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="20" lineNum="584" parent="globals/myGarminWatchFaceView" pc="268437037" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHeartIcon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="20" lineNum="585" parent="globals/myGarminWatchFaceView" pc="268437051" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHeartIcon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="20" lineNum="586" parent="globals/myGarminWatchFaceView" pc="268437091" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHeartIcon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="20" lineNum="587" parent="globals/myGarminWatchFaceView" pc="268437131" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHeartIcon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="21" lineNum="320" parent="globals/myGarminWatchFaceView" pc="268437242" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;radialLine&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="21" lineNum="321" parent="globals/myGarminWatchFaceView" pc="268437245" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;radialLine&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="21" lineNum="322" parent="globals/myGarminWatchFaceView" pc="268437259" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;radialLine&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="21" lineNum="323" parent="globals/myGarminWatchFaceView" pc="268437273" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;radialLine&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="22" lineNum="85" parent="globals/myGarminWatchFaceView" pc="268437302" symbol="onSettingsChanged"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="22" lineNum="86" parent="globals/myGarminWatchFaceView" pc="268437304" symbol="onSettingsChanged"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="22" lineNum="87" parent="globals/myGarminWatchFaceView" pc="268437311" symbol="onSettingsChanged"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="23" lineNum="340" parent="globals/myGarminWatchFaceView" pc="268437320" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;roundArc&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="23" lineNum="342" parent="globals/myGarminWatchFaceView" pc="268437322" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;roundArc&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="23" lineNum="343" parent="globals/myGarminWatchFaceView" pc="268437336" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;roundArc&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="23" lineNum="344" parent="globals/myGarminWatchFaceView" pc="268437348" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;roundArc&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="23" lineNum="345" parent="globals/myGarminWatchFaceView" pc="268437376" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;roundArc&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="24" lineNum="599" parent="globals/myGarminWatchFaceView" pc="268437389" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHeartRate&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="24" lineNum="600" parent="globals/myGarminWatchFaceView" pc="268437392" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHeartRate&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="24" lineNum="602" parent="globals/myGarminWatchFaceView" pc="268437400" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHeartRate&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="24" lineNum="603" parent="globals/myGarminWatchFaceView" pc="268437406" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHeartRate&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="24" lineNum="604" parent="globals/myGarminWatchFaceView" pc="268437431" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHeartRate&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="24" lineNum="605" parent="globals/myGarminWatchFaceView" pc="268437442" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHeartRate&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="24" lineNum="609" parent="globals/myGarminWatchFaceView" pc="268437482" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHeartRate&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="24" lineNum="610" parent="globals/myGarminWatchFaceView" pc="268437532" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHeartRate&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="24" lineNum="611" parent="globals/myGarminWatchFaceView" pc="268437549" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHeartRate&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="25" lineNum="122" parent="globals/myGarminWatchFaceView" pc="268437602" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;vectorFont&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="25" lineNum="123" parent="globals/myGarminWatchFaceView" pc="268437604" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;vectorFont&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="26" lineNum="348" parent="globals/myGarminWatchFaceView" pc="268437643" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;clamp01&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="26" lineNum="349" parent="globals/myGarminWatchFaceView" pc="268437645" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;clamp01&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="27" lineNum="380" parent="globals/myGarminWatchFaceView" pc="268437681" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;gradientArc&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="27" lineNum="382" parent="globals/myGarminWatchFaceView" pc="268437684" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;gradientArc&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="27" lineNum="383" parent="globals/myGarminWatchFaceView" pc="268437692" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;gradientArc&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="27" lineNum="384" parent="globals/myGarminWatchFaceView" pc="268437708" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;gradientArc&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="27" lineNum="385" parent="globals/myGarminWatchFaceView" pc="268437716" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;gradientArc&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="27" lineNum="386" parent="globals/myGarminWatchFaceView" pc="268437728" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;gradientArc&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="27" lineNum="387" parent="globals/myGarminWatchFaceView" pc="268437739" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;gradientArc&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="27" lineNum="388" parent="globals/myGarminWatchFaceView" pc="268437753" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;gradientArc&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="27" lineNum="389" parent="globals/myGarminWatchFaceView" pc="268437773" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;gradientArc&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="27" lineNum="389" parent="globals/myGarminWatchFaceView" pc="268437781" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;gradientArc&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="27" lineNum="390" parent="globals/myGarminWatchFaceView" pc="268437785" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;gradientArc&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="27" lineNum="391" parent="globals/myGarminWatchFaceView" pc="268437821" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;gradientArc&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="27" lineNum="393" parent="globals/myGarminWatchFaceView" pc="268437859" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;gradientArc&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="28" lineNum="67" parent="globals/myGarminWatchFaceView" pc="268437872" symbol="onLayout"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="28" lineNum="68" parent="globals/myGarminWatchFaceView" pc="268437874" symbol="onLayout"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="28" lineNum="69" parent="globals/myGarminWatchFaceView" pc="268437891" symbol="onLayout"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="28" lineNum="70" parent="globals/myGarminWatchFaceView" pc="268437908" symbol="onLayout"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="28" lineNum="71" parent="globals/myGarminWatchFaceView" pc="268437920" symbol="onLayout"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="29" lineNum="215" parent="globals/myGarminWatchFaceView" pc="268437928" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;getVo2Max&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="29" lineNum="216" parent="globals/myGarminWatchFaceView" pc="268437931" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;getVo2Max&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="29" lineNum="217" parent="globals/myGarminWatchFaceView" pc="268437943" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;getVo2Max&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="29" lineNum="218" parent="globals/myGarminWatchFaceView" pc="268437965" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;getVo2Max&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="29" lineNum="220" parent="globals/myGarminWatchFaceView" pc="268437973" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;getVo2Max&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="29" lineNum="221" parent="globals/myGarminWatchFaceView" pc="268437995" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;getVo2Max&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="29" lineNum="223" parent="globals/myGarminWatchFaceView" pc="268438003" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;getVo2Max&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="30" lineNum="372" parent="globals/myGarminWatchFaceView" pc="268438005" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;gaugeColor&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="30" lineNum="373" parent="globals/myGarminWatchFaceView" pc="268438007" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;gaugeColor&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="30" lineNum="374" parent="globals/myGarminWatchFaceView" pc="268438018" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;gaugeColor&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="30" lineNum="376" parent="globals/myGarminWatchFaceView" pc="268438045" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;gaugeColor&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="31" lineNum="398" parent="globals/myGarminWatchFaceView" pc="268438075" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSector&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="31" lineNum="399" parent="globals/myGarminWatchFaceView" pc="268438078" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSector&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="31" lineNum="400" parent="globals/myGarminWatchFaceView" pc="268438091" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSector&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="31" lineNum="401" parent="globals/myGarminWatchFaceView" pc="268438108" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSector&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="31" lineNum="403" parent="globals/myGarminWatchFaceView" pc="268438130" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSector&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="31" lineNum="404" parent="globals/myGarminWatchFaceView" pc="268438147" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSector&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="31" lineNum="405" parent="globals/myGarminWatchFaceView" pc="268438159" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSector&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="31" lineNum="406" parent="globals/myGarminWatchFaceView" pc="268438181" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSector&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="31" lineNum="407" parent="globals/myGarminWatchFaceView" pc="268438206" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSector&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="31" lineNum="408" parent="globals/myGarminWatchFaceView" pc="268438217" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSector&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="31" lineNum="411" parent="globals/myGarminWatchFaceView" pc="268438250" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSector&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="31" lineNum="412" parent="globals/myGarminWatchFaceView" pc="268438261" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSector&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="31" lineNum="414" parent="globals/myGarminWatchFaceView" pc="268438309" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSector&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="32" lineNum="92" parent="globals/myGarminWatchFaceView" pc="268438341" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadSettings&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="32" lineNum="93" parent="globals/myGarminWatchFaceView" pc="268438344" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadSettings&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="32" lineNum="94" parent="globals/myGarminWatchFaceView" pc="268438363" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadSettings&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="32" lineNum="96" parent="globals/myGarminWatchFaceView" pc="268438395" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadSettings&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="32" lineNum="97" parent="globals/myGarminWatchFaceView" pc="268438414" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadSettings&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="32" lineNum="98" parent="globals/myGarminWatchFaceView" pc="268438422" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadSettings&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="32" lineNum="99" parent="globals/myGarminWatchFaceView" pc="268438433" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadSettings&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="32" lineNum="100" parent="globals/myGarminWatchFaceView" pc="268438444" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadSettings&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="32" lineNum="101" parent="globals/myGarminWatchFaceView" pc="268438456" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadSettings&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="32" lineNum="102" parent="globals/myGarminWatchFaceView" pc="268438467" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadSettings&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="32" lineNum="103" parent="globals/myGarminWatchFaceView" pc="268438478" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadSettings&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="32" lineNum="104" parent="globals/myGarminWatchFaceView" pc="268438489" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadSettings&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="32" lineNum="105" parent="globals/myGarminWatchFaceView" pc="268438500" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadSettings&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="32" lineNum="106" parent="globals/myGarminWatchFaceView" pc="268438512" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadSettings&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="32" lineNum="107" parent="globals/myGarminWatchFaceView" pc="268438524" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadSettings&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="32" lineNum="109" parent="globals/myGarminWatchFaceView" pc="268438536" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadSettings&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="32" lineNum="110" parent="globals/myGarminWatchFaceView" pc="268438548" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadSettings&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="32" lineNum="111" parent="globals/myGarminWatchFaceView" pc="268438560" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadSettings&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="32" lineNum="112" parent="globals/myGarminWatchFaceView" pc="268438571" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadSettings&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="32" lineNum="113" parent="globals/myGarminWatchFaceView" pc="268438583" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadSettings&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="32" lineNum="114" parent="globals/myGarminWatchFaceView" pc="268438595" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadSettings&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="32" lineNum="115" parent="globals/myGarminWatchFaceView" pc="268438606" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadSettings&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="32" lineNum="116" parent="globals/myGarminWatchFaceView" pc="268438618" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadSettings&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="32" lineNum="117" parent="globals/myGarminWatchFaceView" pc="268438629" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadSettings&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="32" lineNum="118" parent="globals/myGarminWatchFaceView" pc="268438640" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadSettings&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="33" lineNum="74" parent="globals/myGarminWatchFaceView" pc="268438653" symbol="onEnterSleep"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="33" lineNum="75" parent="globals/myGarminWatchFaceView" pc="268438655" symbol="onEnterSleep"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="33" lineNum="76" parent="globals/myGarminWatchFaceView" pc="268438663" symbol="onEnterSleep"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="34" lineNum="614" parent="globals/myGarminWatchFaceView" pc="268438675" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawBattery&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="34" lineNum="615" parent="globals/myGarminWatchFaceView" pc="268438678" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawBattery&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="34" lineNum="616" parent="globals/myGarminWatchFaceView" pc="268438691" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawBattery&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="34" lineNum="617" parent="globals/myGarminWatchFaceView" pc="268438708" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawBattery&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="34" lineNum="618" parent="globals/myGarminWatchFaceView" pc="268438746" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawBattery&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="34" lineNum="619" parent="globals/myGarminWatchFaceView" pc="268438778" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawBattery&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="34" lineNum="620" parent="globals/myGarminWatchFaceView" pc="268438789" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawBattery&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="34" lineNum="622" parent="globals/myGarminWatchFaceView" pc="268438834" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawBattery&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="34" lineNum="623" parent="globals/myGarminWatchFaceView" pc="268438851" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawBattery&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="34" lineNum="626" parent="globals/myGarminWatchFaceView" pc="268438885" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawBattery&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="34" lineNum="627" parent="globals/myGarminWatchFaceView" pc="268438895" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawBattery&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="34" lineNum="628" parent="globals/myGarminWatchFaceView" pc="268438899" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawBattery&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="34" lineNum="629" parent="globals/myGarminWatchFaceView" pc="268438903" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawBattery&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="34" lineNum="630" parent="globals/myGarminWatchFaceView" pc="268438920" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawBattery&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="34" lineNum="631" parent="globals/myGarminWatchFaceView" pc="268438952" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawBattery&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="34" lineNum="632" parent="globals/myGarminWatchFaceView" pc="268438979" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawBattery&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="34" lineNum="633" parent="globals/myGarminWatchFaceView" pc="268438993" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawBattery&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="35" lineNum="227" parent="globals/myGarminWatchFaceView" pc="268439053" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;getTemperature&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="35" lineNum="228" parent="globals/myGarminWatchFaceView" pc="268439056" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;getTemperature&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="35" lineNum="229" parent="globals/myGarminWatchFaceView" pc="268439075" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;getTemperature&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="35" lineNum="230" parent="globals/myGarminWatchFaceView" pc="268439094" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;getTemperature&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="35" lineNum="231" parent="globals/myGarminWatchFaceView" pc="268439150" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;getTemperature&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="35" lineNum="233" parent="globals/myGarminWatchFaceView" pc="268439171" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;getTemperature&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="35" lineNum="234" parent="globals/myGarminWatchFaceView" pc="268439187" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;getTemperature&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="35" lineNum="236" parent="globals/myGarminWatchFaceView" pc="268439189" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;getTemperature&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="35" lineNum="237" parent="globals/myGarminWatchFaceView" pc="268439201" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;getTemperature&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="35" lineNum="238" parent="globals/myGarminWatchFaceView" pc="268439218" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;getTemperature&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="35" lineNum="240" parent="globals/myGarminWatchFaceView" pc="268439220" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;getTemperature&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="36" lineNum="523" parent="globals/myGarminWatchFaceView" pc="268439245" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawDate&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="36" lineNum="524" parent="globals/myGarminWatchFaceView" pc="268439248" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawDate&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="36" lineNum="525" parent="globals/myGarminWatchFaceView" pc="268439267" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawDate&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="36" lineNum="526" parent="globals/myGarminWatchFaceView" pc="268439280" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawDate&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="36" lineNum="527" parent="globals/myGarminWatchFaceView" pc="268439297" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawDate&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="36" lineNum="528" parent="globals/myGarminWatchFaceView" pc="268439319" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawDate&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="36" lineNum="529" parent="globals/myGarminWatchFaceView" pc="268439336" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawDate&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="36" lineNum="530" parent="globals/myGarminWatchFaceView" pc="268439355" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawDate&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="36" lineNum="531" parent="globals/myGarminWatchFaceView" pc="268439372" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawDate&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="37" lineNum="766" parent="globals/myGarminWatchFaceView" pc="268439404" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleepHand&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="37" lineNum="767" parent="globals/myGarminWatchFaceView" pc="268439407" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleepHand&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="37" lineNum="768" parent="globals/myGarminWatchFaceView" pc="268439417" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleepHand&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="37" lineNum="769" parent="globals/myGarminWatchFaceView" pc="268439427" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleepHand&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="37" lineNum="771" parent="globals/myGarminWatchFaceView" pc="268439577" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleepHand&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="37" lineNum="772" parent="globals/myGarminWatchFaceView" pc="268439594" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleepHand&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="37" lineNum="773" parent="globals/myGarminWatchFaceView" pc="268439606" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleepHand&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="37" lineNum="774" parent="globals/myGarminWatchFaceView" pc="268439622" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleepHand&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="37" lineNum="775" parent="globals/myGarminWatchFaceView" pc="268439629" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleepHand&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="37" lineNum="776" parent="globals/myGarminWatchFaceView" pc="268439647" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleepHand&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="37" lineNum="778" parent="globals/myGarminWatchFaceView" pc="268439685" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleepHand&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="38" lineNum="327" parent="globals/myGarminWatchFaceView" pc="268439698" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;ringText&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="38" lineNum="328" parent="globals/myGarminWatchFaceView" pc="268439701" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;ringText&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="38" lineNum="329" parent="globals/myGarminWatchFaceView" pc="268439720" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;ringText&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="38" lineNum="330" parent="globals/myGarminWatchFaceView" pc="268439739" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;ringText&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="38" lineNum="334" parent="globals/myGarminWatchFaceView" pc="268439788" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;ringText&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="38" lineNum="335" parent="globals/myGarminWatchFaceView" pc="268439802" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;ringText&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="39" lineNum="417" parent="globals/myGarminWatchFaceView" pc="268439827" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawTrack&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="39" lineNum="419" parent="globals/myGarminWatchFaceView" pc="268439830" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawTrack&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="39" lineNum="420" parent="globals/myGarminWatchFaceView" pc="268439847" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawTrack&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="39" lineNum="421" parent="globals/myGarminWatchFaceView" pc="268439859" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawTrack&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="39" lineNum="423" parent="globals/myGarminWatchFaceView" pc="268439887" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawTrack&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="39" lineNum="424" parent="globals/myGarminWatchFaceView" pc="268439904" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawTrack&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="39" lineNum="425" parent="globals/myGarminWatchFaceView" pc="268439916" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawTrack&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="39" lineNum="427" parent="globals/myGarminWatchFaceView" pc="268439944" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawTrack&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="39" lineNum="428" parent="globals/myGarminWatchFaceView" pc="268439955" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawTrack&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="39" lineNum="429" parent="globals/myGarminWatchFaceView" pc="268439965" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawTrack&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="39" lineNum="430" parent="globals/myGarminWatchFaceView" pc="268439977" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawTrack&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="39" lineNum="432" parent="globals/myGarminWatchFaceView" pc="268440012" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawTrack&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="39" lineNum="433" parent="globals/myGarminWatchFaceView" pc="268440024" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawTrack&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="39" lineNum="436" parent="globals/myGarminWatchFaceView" pc="268440066" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawTrack&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="39" lineNum="439" parent="globals/myGarminWatchFaceView" pc="268440078" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawTrack&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="39" lineNum="440" parent="globals/myGarminWatchFaceView" pc="268440095" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawTrack&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="39" lineNum="441" parent="globals/myGarminWatchFaceView" pc="268440107" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawTrack&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="39" lineNum="442" parent="globals/myGarminWatchFaceView" pc="268440135" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawTrack&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="40" lineNum="353" parent="globals/myGarminWatchFaceView" pc="268440148" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;hsv&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="40" lineNum="354" parent="globals/myGarminWatchFaceView" pc="268440151" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;hsv&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="40" lineNum="355" parent="globals/myGarminWatchFaceView" pc="268440158" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;hsv&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="40" lineNum="356" parent="globals/myGarminWatchFaceView" pc="268440168" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;hsv&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="40" lineNum="357" parent="globals/myGarminWatchFaceView" pc="268440193" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;hsv&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="40" lineNum="358" parent="globals/myGarminWatchFaceView" pc="268440212" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;hsv&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="40" lineNum="359" parent="globals/myGarminWatchFaceView" pc="268440215" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;hsv&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="40" lineNum="360" parent="globals/myGarminWatchFaceView" pc="268440218" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;hsv&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="40" lineNum="361" parent="globals/myGarminWatchFaceView" pc="268440221" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;hsv&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="40" lineNum="361" parent="globals/myGarminWatchFaceView" pc="268440229" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;hsv&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="40" lineNum="361" parent="globals/myGarminWatchFaceView" pc="268440233" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;hsv&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="40" lineNum="362" parent="globals/myGarminWatchFaceView" pc="268440240" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;hsv&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="40" lineNum="362" parent="globals/myGarminWatchFaceView" pc="268440248" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;hsv&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="40" lineNum="362" parent="globals/myGarminWatchFaceView" pc="268440252" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;hsv&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="40" lineNum="363" parent="globals/myGarminWatchFaceView" pc="268440259" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;hsv&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="40" lineNum="363" parent="globals/myGarminWatchFaceView" pc="268440267" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;hsv&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="40" lineNum="363" parent="globals/myGarminWatchFaceView" pc="268440271" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;hsv&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="40" lineNum="364" parent="globals/myGarminWatchFaceView" pc="268440278" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;hsv&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="40" lineNum="364" parent="globals/myGarminWatchFaceView" pc="268440286" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;hsv&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="40" lineNum="364" parent="globals/myGarminWatchFaceView" pc="268440290" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;hsv&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="40" lineNum="365" parent="globals/myGarminWatchFaceView" pc="268440297" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;hsv&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="40" lineNum="365" parent="globals/myGarminWatchFaceView" pc="268440305" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;hsv&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="40" lineNum="365" parent="globals/myGarminWatchFaceView" pc="268440309" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;hsv&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="40" lineNum="366" parent="globals/myGarminWatchFaceView" pc="268440316" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;hsv&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="40" lineNum="366" parent="globals/myGarminWatchFaceView" pc="268440320" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;hsv&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="40" lineNum="367" parent="globals/myGarminWatchFaceView" pc="268440324" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;hsv&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="40" lineNum="368" parent="globals/myGarminWatchFaceView" pc="268440331" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;hsv&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="41" lineNum="126" parent="globals/myGarminWatchFaceView" pc="268440385" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadFonts&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="41" lineNum="127" parent="globals/myGarminWatchFaceView" pc="268440388" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadFonts&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="41" lineNum="128" parent="globals/myGarminWatchFaceView" pc="268440404" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadFonts&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="41" lineNum="130" parent="globals/myGarminWatchFaceView" pc="268440405" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadFonts&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="41" lineNum="131" parent="globals/myGarminWatchFaceView" pc="268440431" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadFonts&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="41" lineNum="132" parent="globals/myGarminWatchFaceView" pc="268440457" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadFonts&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="41" lineNum="133" parent="globals/myGarminWatchFaceView" pc="268440483" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadFonts&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="41" lineNum="134" parent="globals/myGarminWatchFaceView" pc="268440509" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadFonts&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="41" lineNum="135" parent="globals/myGarminWatchFaceView" pc="268440535" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadFonts&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="41" lineNum="136" parent="globals/myGarminWatchFaceView" pc="268440565" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadFonts&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="41" lineNum="137" parent="globals/myGarminWatchFaceView" pc="268440574" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadFonts&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="41" lineNum="138" parent="globals/myGarminWatchFaceView" pc="268440583" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadFonts&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="41" lineNum="139" parent="globals/myGarminWatchFaceView" pc="268440592" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadFonts&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="41" lineNum="140" parent="globals/myGarminWatchFaceView" pc="268440601" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadFonts&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="41" lineNum="141" parent="globals/myGarminWatchFaceView" pc="268440610" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadFonts&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="42" lineNum="294" parent="globals/myGarminWatchFaceView" pc="268440619" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;getHeartRate&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="42" lineNum="295" parent="globals/myGarminWatchFaceView" pc="268440622" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;getHeartRate&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="42" lineNum="296" parent="globals/myGarminWatchFaceView" pc="268440634" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;getHeartRate&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="42" lineNum="297" parent="globals/myGarminWatchFaceView" pc="268440651" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;getHeartRate&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="42" lineNum="299" parent="globals/myGarminWatchFaceView" pc="268440659" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;getHeartRate&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="42" lineNum="300" parent="globals/myGarminWatchFaceView" pc="268440674" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;getHeartRate&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="42" lineNum="301" parent="globals/myGarminWatchFaceView" pc="268440697" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;getHeartRate&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="42" lineNum="302" parent="globals/myGarminWatchFaceView" pc="268440717" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;getHeartRate&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="42" lineNum="305" parent="globals/myGarminWatchFaceView" pc="268440725" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;getHeartRate&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="43" lineNum="591" parent="globals/myGarminWatchFaceView" pc="268440727" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHeartRateDisc&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="43" lineNum="592" parent="globals/myGarminWatchFaceView" pc="268440729" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHeartRateDisc&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="43" lineNum="593" parent="globals/myGarminWatchFaceView" pc="268440746" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHeartRateDisc&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="43" lineNum="594" parent="globals/myGarminWatchFaceView" pc="268440778" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHeartRateDisc&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="43" lineNum="595" parent="globals/myGarminWatchFaceView" pc="268440795" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHeartRateDisc&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="44" lineNum="311" parent="globals/myGarminWatchFaceView" pc="268440831" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;polarAt&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="44" lineNum="312" parent="globals/myGarminWatchFaceView" pc="268440834" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;polarAt&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="44" lineNum="313" parent="globals/myGarminWatchFaceView" pc="268440853" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;polarAt&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="45" lineNum="474" parent="globals/myGarminWatchFaceView" pc="268440904" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMoon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="45" lineNum="475" parent="globals/myGarminWatchFaceView" pc="268440907" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMoon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="45" lineNum="476" parent="globals/myGarminWatchFaceView" pc="268440937" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMoon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="45" lineNum="477" parent="globals/myGarminWatchFaceView" pc="268440947" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMoon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="45" lineNum="479" parent="globals/myGarminWatchFaceView" pc="268440966" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMoon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="45" lineNum="480" parent="globals/myGarminWatchFaceView" pc="268440983" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMoon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="45" lineNum="481" parent="globals/myGarminWatchFaceView" pc="268441002" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMoon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="45" lineNum="482" parent="globals/myGarminWatchFaceView" pc="268441018" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMoon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="45" lineNum="485" parent="globals/myGarminWatchFaceView" pc="268441034" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMoon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="45" lineNum="486" parent="globals/myGarminWatchFaceView" pc="268441056" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMoon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="45" lineNum="487" parent="globals/myGarminWatchFaceView" pc="268441076" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMoon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="45" lineNum="488" parent="globals/myGarminWatchFaceView" pc="268441080" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMoon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="45" lineNum="489" parent="globals/myGarminWatchFaceView" pc="268441084" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMoon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="45" lineNum="490" parent="globals/myGarminWatchFaceView" pc="268441088" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMoon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="45" lineNum="491" parent="globals/myGarminWatchFaceView" pc="268441099" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMoon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="45" lineNum="492" parent="globals/myGarminWatchFaceView" pc="268441120" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMoon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="45" lineNum="493" parent="globals/myGarminWatchFaceView" pc="268441145" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMoon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="45" lineNum="494" parent="globals/myGarminWatchFaceView" pc="268441178" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMoon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="45" lineNum="496" parent="globals/myGarminWatchFaceView" pc="268441224" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMoon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="45" lineNum="497" parent="globals/myGarminWatchFaceView" pc="268441241" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMoon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="45" lineNum="498" parent="globals/myGarminWatchFaceView" pc="268441258" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMoon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="45" lineNum="501" parent="globals/myGarminWatchFaceView" pc="268441270" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMoon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="45" lineNum="502" parent="globals/myGarminWatchFaceView" pc="268441287" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMoon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="45" lineNum="503" parent="globals/myGarminWatchFaceView" pc="268441309" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMoon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="45" lineNum="504" parent="globals/myGarminWatchFaceView" pc="268441349" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMoon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="45" lineNum="505" parent="globals/myGarminWatchFaceView" pc="268441389" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMoon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="45" lineNum="508" parent="globals/myGarminWatchFaceView" pc="268441429" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMoon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="45" lineNum="509" parent="globals/myGarminWatchFaceView" pc="268441451" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMoon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="45" lineNum="510" parent="globals/myGarminWatchFaceView" pc="268441455" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMoon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="45" lineNum="511" parent="globals/myGarminWatchFaceView" pc="268441459" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMoon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="45" lineNum="512" parent="globals/myGarminWatchFaceView" pc="268441470" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMoon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="45" lineNum="513" parent="globals/myGarminWatchFaceView" pc="268441491" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMoon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="45" lineNum="514" parent="globals/myGarminWatchFaceView" pc="268441516" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMoon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="45" lineNum="515" parent="globals/myGarminWatchFaceView" pc="268441549" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMoon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="45" lineNum="517" parent="globals/myGarminWatchFaceView" pc="268441595" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMoon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="45" lineNum="518" parent="globals/myGarminWatchFaceView" pc="268441612" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMoon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="45" lineNum="519" parent="globals/myGarminWatchFaceView" pc="268441628" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMoon&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="46" lineNum="535" parent="globals/myGarminWatchFaceView" pc="268441641" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawDisc&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="46" lineNum="536" parent="globals/myGarminWatchFaceView" pc="268441643" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawDisc&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="46" lineNum="537" parent="globals/myGarminWatchFaceView" pc="268441660" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawDisc&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="46" lineNum="538" parent="globals/myGarminWatchFaceView" pc="268441679" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawDisc&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="46" lineNum="539" parent="globals/myGarminWatchFaceView" pc="268441696" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawDisc&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="46" lineNum="540" parent="globals/myGarminWatchFaceView" pc="268441712" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawDisc&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="46" lineNum="541" parent="globals/myGarminWatchFaceView" pc="268441728" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawDisc&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="47" lineNum="278" parent="globals/myGarminWatchFaceView" pc="268441748" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;getSleepScore&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="47" lineNum="279" parent="globals/myGarminWatchFaceView" pc="268441751" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;getSleepScore&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="47" lineNum="280" parent="globals/myGarminWatchFaceView" pc="268441767" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;getSleepScore&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="47" lineNum="283" parent="globals/myGarminWatchFaceView" pc="268441769" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;getSleepScore&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="47" lineNum="285" parent="globals/myGarminWatchFaceView" pc="268441807" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;getSleepScore&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="47" lineNum="286" parent="globals/myGarminWatchFaceView" pc="268441815" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;getSleepScore&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="47" lineNum="287" parent="globals/myGarminWatchFaceView" pc="268441860" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;getSleepScore&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="47" lineNum="289" parent="globals/myGarminWatchFaceView" pc="268441872" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;getSleepScore&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="47" lineNum="291" parent="globals/myGarminWatchFaceView" pc="268441881" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;getSleepScore&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="48" lineNum="316" parent="globals/myGarminWatchFaceView" pc="268441883" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;polar&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="48" lineNum="317" parent="globals/myGarminWatchFaceView" pc="268441885" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;polar&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="49" lineNum="79" parent="globals/myGarminWatchFaceView" pc="268441908" symbol="onExitSleep"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="49" lineNum="80" parent="globals/myGarminWatchFaceView" pc="268441910" symbol="onExitSleep"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="49" lineNum="81" parent="globals/myGarminWatchFaceView" pc="268441918" symbol="onExitSleep"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="49" lineNum="82" parent="globals/myGarminWatchFaceView" pc="268441926" symbol="onExitSleep"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="50" lineNum="453" parent="globals/myGarminWatchFaceView" pc="268441938" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMonths&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="50" lineNum="454" parent="globals/myGarminWatchFaceView" pc="268441941" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMonths&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="50" lineNum="455" parent="globals/myGarminWatchFaceView" pc="268441952" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMonths&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="50" lineNum="456" parent="globals/myGarminWatchFaceView" pc="268441988" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMonths&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="51" lineNum="741" parent="globals/myGarminWatchFaceView" pc="268442037" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleep&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="51" lineNum="742" parent="globals/myGarminWatchFaceView" pc="268442040" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleep&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="51" lineNum="743" parent="globals/myGarminWatchFaceView" pc="268442051" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleep&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="51" lineNum="744" parent="globals/myGarminWatchFaceView" pc="268442063" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleep&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="51" lineNum="746" parent="globals/myGarminWatchFaceView" pc="268442071" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleep&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="51" lineNum="747" parent="globals/myGarminWatchFaceView" pc="268442087" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleep&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="51" lineNum="748" parent="globals/myGarminWatchFaceView" pc="268442099" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleep&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="51" lineNum="749" parent="globals/myGarminWatchFaceView" pc="268442111" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleep&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="51" lineNum="751" parent="globals/myGarminWatchFaceView" pc="268442153" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleep&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="51" lineNum="752" parent="globals/myGarminWatchFaceView" pc="268442170" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleep&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="51" lineNum="753" parent="globals/myGarminWatchFaceView" pc="268442198" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleep&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="51" lineNum="755" parent="globals/myGarminWatchFaceView" pc="268442210" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleep&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="51" lineNum="756" parent="globals/myGarminWatchFaceView" pc="268442221" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleep&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="51" lineNum="757" parent="globals/myGarminWatchFaceView" pc="268442248" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleep&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="51" lineNum="758" parent="globals/myGarminWatchFaceView" pc="268442274" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleep&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="51" lineNum="760" parent="globals/myGarminWatchFaceView" pc="268442300" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleep&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="51" lineNum="761" parent="globals/myGarminWatchFaceView" pc="268442317" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleep&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="51" lineNum="762" parent="globals/myGarminWatchFaceView" pc="268442329" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleep&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="51" lineNum="763" parent="globals/myGarminWatchFaceView" pc="268442351" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleep&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="52" lineNum="682" parent="globals/myGarminWatchFaceView" pc="268442364" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHand&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="52" lineNum="684" parent="globals/myGarminWatchFaceView" pc="268442367" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHand&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="52" lineNum="685" parent="globals/myGarminWatchFaceView" pc="268442377" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHand&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="52" lineNum="686" parent="globals/myGarminWatchFaceView" pc="268442387" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHand&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="52" lineNum="687" parent="globals/myGarminWatchFaceView" pc="268442477" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHand&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="52" lineNum="689" parent="globals/myGarminWatchFaceView" pc="268442563" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHand&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="52" lineNum="690" parent="globals/myGarminWatchFaceView" pc="268442583" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHand&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="52" lineNum="692" parent="globals/myGarminWatchFaceView" pc="268442721" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHand&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="52" lineNum="693" parent="globals/myGarminWatchFaceView" pc="268442750" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHand&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="52" lineNum="696" parent="globals/myGarminWatchFaceView" pc="268442776" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHand&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="52" lineNum="697" parent="globals/myGarminWatchFaceView" pc="268442793" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHand&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="52" lineNum="698" parent="globals/myGarminWatchFaceView" pc="268442817" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHand&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="52" lineNum="699" parent="globals/myGarminWatchFaceView" pc="268442834" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHand&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="52" lineNum="701" parent="globals/myGarminWatchFaceView" pc="268442858" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHand&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="52" lineNum="702" parent="globals/myGarminWatchFaceView" pc="268442868" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHand&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="52" lineNum="704" parent="globals/myGarminWatchFaceView" pc="268443001" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHand&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="52" lineNum="705" parent="globals/myGarminWatchFaceView" pc="268443018" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHand&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="53" lineNum="667" parent="globals/myGarminWatchFaceView" pc="268443043" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;rotated&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="53" lineNum="669" parent="globals/myGarminWatchFaceView" pc="268443046" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;rotated&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="53" lineNum="670" parent="globals/myGarminWatchFaceView" pc="268443062" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;rotated&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="53" lineNum="671" parent="globals/myGarminWatchFaceView" pc="268443078" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;rotated&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="53" lineNum="672" parent="globals/myGarminWatchFaceView" pc="268443094" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;rotated&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="53" lineNum="673" parent="globals/myGarminWatchFaceView" pc="268443098" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;rotated&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="53" lineNum="674" parent="globals/myGarminWatchFaceView" pc="268443114" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;rotated&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="53" lineNum="675" parent="globals/myGarminWatchFaceView" pc="268443123" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;rotated&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="53" lineNum="676" parent="globals/myGarminWatchFaceView" pc="268443133" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;rotated&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="53" lineNum="678" parent="globals/myGarminWatchFaceView" pc="268443203" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;rotated&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="54" lineNum="181" parent="globals/myGarminWatchFaceView" pc="268443206" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawFace&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="54" lineNum="182" parent="globals/myGarminWatchFaceView" pc="268443209" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawFace&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="54" lineNum="184" parent="globals/myGarminWatchFaceView" pc="268443234" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawFace&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="54" lineNum="185" parent="globals/myGarminWatchFaceView" pc="268443254" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawFace&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="54" lineNum="187" parent="globals/myGarminWatchFaceView" pc="268443262" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawFace&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="54" lineNum="188" parent="globals/myGarminWatchFaceView" pc="268443273" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawFace&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="54" lineNum="189" parent="globals/myGarminWatchFaceView" pc="268443284" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawFace&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="54" lineNum="190" parent="globals/myGarminWatchFaceView" pc="268443295" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawFace&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="54" lineNum="191" parent="globals/myGarminWatchFaceView" pc="268443312" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawFace&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="54" lineNum="192" parent="globals/myGarminWatchFaceView" pc="268443329" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawFace&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="54" lineNum="193" parent="globals/myGarminWatchFaceView" pc="268443373" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawFace&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="54" lineNum="195" parent="globals/myGarminWatchFaceView" pc="268443390" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawFace&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="54" lineNum="196" parent="globals/myGarminWatchFaceView" pc="268443398" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawFace&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="54" lineNum="200" parent="globals/myGarminWatchFaceView" pc="268443490" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawFace&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="54" lineNum="201" parent="globals/myGarminWatchFaceView" pc="268443497" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawFace&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="54" lineNum="202" parent="globals/myGarminWatchFaceView" pc="268443505" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawFace&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="54" lineNum="206" parent="globals/myGarminWatchFaceView" pc="268443603" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawFace&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="54" lineNum="207" parent="globals/myGarminWatchFaceView" pc="268443615" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawFace&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="54" lineNum="208" parent="globals/myGarminWatchFaceView" pc="268443666" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawFace&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="54" lineNum="210" parent="globals/myGarminWatchFaceView" pc="268443717" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawFace&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="55" lineNum="544" parent="globals/myGarminWatchFaceView" pc="268443762" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawGauge&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="55" lineNum="546" parent="globals/myGarminWatchFaceView" pc="268443765" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawGauge&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="55" lineNum="549" parent="globals/myGarminWatchFaceView" pc="268443782" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawGauge&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="55" lineNum="550" parent="globals/myGarminWatchFaceView" pc="268443789" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawGauge&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="55" lineNum="551" parent="globals/myGarminWatchFaceView" pc="268443818" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawGauge&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="55" lineNum="552" parent="globals/myGarminWatchFaceView" pc="268443824" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawGauge&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="55" lineNum="553" parent="globals/myGarminWatchFaceView" pc="268443836" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawGauge&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="55" lineNum="554" parent="globals/myGarminWatchFaceView" pc="268443847" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawGauge&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="55" lineNum="559" parent="globals/myGarminWatchFaceView" pc="268443870" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawGauge&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="55" lineNum="560" parent="globals/myGarminWatchFaceView" pc="268443898" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawGauge&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="55" lineNum="562" parent="globals/myGarminWatchFaceView" pc="268443920" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawGauge&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="55" lineNum="563" parent="globals/myGarminWatchFaceView" pc="268443937" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawGauge&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="55" lineNum="565" parent="globals/myGarminWatchFaceView" pc="268443969" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawGauge&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="55" lineNum="566" parent="globals/myGarminWatchFaceView" pc="268443982" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawGauge&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="55" lineNum="567" parent="globals/myGarminWatchFaceView" pc="268444018" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawGauge&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="55" lineNum="568" parent="globals/myGarminWatchFaceView" pc="268444029" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawGauge&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="55" lineNum="570" parent="globals/myGarminWatchFaceView" pc="268444055" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawGauge&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="55" lineNum="571" parent="globals/myGarminWatchFaceView" pc="268444069" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawGauge&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="56" lineNum="708" parent="globals/myGarminWatchFaceView" pc="268444096" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHands&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="56" lineNum="709" parent="globals/myGarminWatchFaceView" pc="268444099" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHands&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="56" lineNum="710" parent="globals/myGarminWatchFaceView" pc="268444123" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHands&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="56" lineNum="712" parent="globals/myGarminWatchFaceView" pc="268444150" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHands&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="56" lineNum="713" parent="globals/myGarminWatchFaceView" pc="268444177" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHands&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="56" lineNum="715" parent="globals/myGarminWatchFaceView" pc="268444204" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHands&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="56" lineNum="716" parent="globals/myGarminWatchFaceView" pc="268444209" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHands&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="56" lineNum="717" parent="globals/myGarminWatchFaceView" pc="268444220" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHands&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="56" lineNum="718" parent="globals/myGarminWatchFaceView" pc="268444243" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHands&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="56" lineNum="719" parent="globals/myGarminWatchFaceView" pc="268444270" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHands&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="56" lineNum="720" parent="globals/myGarminWatchFaceView" pc="268444293" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHands&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="56" lineNum="721" parent="globals/myGarminWatchFaceView" pc="268444320" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHands&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="56" lineNum="722" parent="globals/myGarminWatchFaceView" pc="268444337" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHands&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="56" lineNum="723" parent="globals/myGarminWatchFaceView" pc="268444349" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHands&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="56" lineNum="724" parent="globals/myGarminWatchFaceView" pc="268444377" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHands&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="56" lineNum="725" parent="globals/myGarminWatchFaceView" pc="268444389" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHands&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="56" lineNum="726" parent="globals/myGarminWatchFaceView" pc="268444410" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHands&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="56" lineNum="727" parent="globals/myGarminWatchFaceView" pc="268444431" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHands&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="56" lineNum="728" parent="globals/myGarminWatchFaceView" pc="268444448" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHands&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="56" lineNum="732" parent="globals/myGarminWatchFaceView" pc="268444469" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHands&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="56" lineNum="733" parent="globals/myGarminWatchFaceView" pc="268444486" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHands&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="56" lineNum="734" parent="globals/myGarminWatchFaceView" pc="268444508" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHands&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="56" lineNum="735" parent="globals/myGarminWatchFaceView" pc="268444525" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHands&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="56" lineNum="736" parent="globals/myGarminWatchFaceView" pc="268444547" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHands&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="56" lineNum="737" parent="globals/myGarminWatchFaceView" pc="268444564" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHands&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="57" lineNum="62" parent="globals/myGarminWatchFaceView" pc="268444587" symbol="initialize"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="57" lineNum="63" parent="globals/myGarminWatchFaceView" pc="268444589" symbol="initialize"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="57" lineNum="64" parent="globals/myGarminWatchFaceView" pc="268444601" symbol="initialize"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="58" lineNum="575" parent="globals/myGarminWatchFaceView" pc="268444609" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawThermometer&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="58" lineNum="576" parent="globals/myGarminWatchFaceView" pc="268444611" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawThermometer&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="58" lineNum="577" parent="globals/myGarminWatchFaceView" pc="268444625" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawThermometer&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="58" lineNum="578" parent="globals/myGarminWatchFaceView" pc="268444656" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawThermometer&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="58" lineNum="579" parent="globals/myGarminWatchFaceView" pc="268444712" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawThermometer&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="58" lineNum="580" parent="globals/myGarminWatchFaceView" pc="268444729" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawThermometer&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="59" lineNum="147" parent="globals/myGarminWatchFaceView" pc="268444778" symbol="onUpdate"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="59" lineNum="148" parent="globals/myGarminWatchFaceView" pc="268444781" symbol="onUpdate"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="59" lineNum="151" parent="globals/myGarminWatchFaceView" pc="268444793" symbol="onUpdate"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="59" lineNum="152" parent="globals/myGarminWatchFaceView" pc="268444819" symbol="onUpdate"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="59" lineNum="153" parent="globals/myGarminWatchFaceView" pc="268444832" symbol="onUpdate"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="59" lineNum="156" parent="globals/myGarminWatchFaceView" pc="268444833" symbol="onUpdate"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="59" lineNum="157" parent="globals/myGarminWatchFaceView" pc="268444851" symbol="onUpdate"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="59" lineNum="158" parent="globals/myGarminWatchFaceView" pc="268444866" symbol="onUpdate"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="59" lineNum="159" parent="globals/myGarminWatchFaceView" pc="268444892" symbol="onUpdate"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="59" lineNum="160" parent="globals/myGarminWatchFaceView" pc="268444898" symbol="onUpdate"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="59" lineNum="161" parent="globals/myGarminWatchFaceView" pc="268444948" symbol="onUpdate"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="59" lineNum="162" parent="globals/myGarminWatchFaceView" pc="268444961" symbol="onUpdate"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="59" lineNum="164" parent="globals/myGarminWatchFaceView" pc="268444969" symbol="onUpdate"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="59" lineNum="165" parent="globals/myGarminWatchFaceView" pc="268444988" symbol="onUpdate"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="59" lineNum="166" parent="globals/myGarminWatchFaceView" pc="268444998" symbol="onUpdate"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="59" lineNum="167" parent="globals/myGarminWatchFaceView" pc="268445009" symbol="onUpdate"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="59" lineNum="168" parent="globals/myGarminWatchFaceView" pc="268445020" symbol="onUpdate"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="59" lineNum="169" parent="globals/myGarminWatchFaceView" pc="268445029" symbol="onUpdate"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="59" lineNum="171" parent="globals/myGarminWatchFaceView" pc="268445037" symbol="onUpdate"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="59" lineNum="173" parent="globals/myGarminWatchFaceView" pc="268445057" symbol="onUpdate"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="59" lineNum="176" parent="globals/myGarminWatchFaceView" pc="268445068" symbol="onUpdate"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="59" lineNum="177" parent="globals/myGarminWatchFaceView" pc="268445079" symbol="onUpdate"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="59" lineNum="178" parent="globals/myGarminWatchFaceView" pc="268445123" symbol="onUpdate"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="60" lineNum="245" parent="globals/myGarminWatchFaceView" pc="268445143" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;savePosition&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="60" lineNum="246" parent="globals/myGarminWatchFaceView" pc="268445146" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;savePosition&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="60" lineNum="247" parent="globals/myGarminWatchFaceView" pc="268445149" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;savePosition&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="60" lineNum="248" parent="globals/myGarminWatchFaceView" pc="268445161" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;savePosition&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="60" lineNum="250" parent="globals/myGarminWatchFaceView" pc="268445223" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;savePosition&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="60" lineNum="252" parent="globals/myGarminWatchFaceView" pc="268445231" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;savePosition&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="60" lineNum="253" parent="globals/myGarminWatchFaceView" pc="268445252" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;savePosition&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="60" lineNum="254" parent="globals/myGarminWatchFaceView" pc="268445264" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;savePosition&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="60" lineNum="255" parent="globals/myGarminWatchFaceView" pc="268445270" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;savePosition&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="60" lineNum="258" parent="globals/myGarminWatchFaceView" pc="268445279" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;savePosition&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="60" lineNum="259" parent="globals/myGarminWatchFaceView" pc="268445285" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;savePosition&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="60" lineNum="261" parent="globals/myGarminWatchFaceView" pc="268445286" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;savePosition&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="60" lineNum="262" parent="globals/myGarminWatchFaceView" pc="268445295" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;savePosition&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="60" lineNum="263" parent="globals/myGarminWatchFaceView" pc="268445307" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;savePosition&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="60" lineNum="264" parent="globals/myGarminWatchFaceView" pc="268445320" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;savePosition&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="60" lineNum="265" parent="globals/myGarminWatchFaceView" pc="268445334" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;savePosition&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="60" lineNum="268" parent="globals/myGarminWatchFaceView" pc="268445335" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;savePosition&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="60" lineNum="269" parent="globals/myGarminWatchFaceView" pc="268445354" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;savePosition&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="60" lineNum="270" parent="globals/myGarminWatchFaceView" pc="268445373" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;savePosition&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="60" lineNum="272" parent="globals/myGarminWatchFaceView" pc="268445443" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;savePosition&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="60" lineNum="274" parent="globals/myGarminWatchFaceView" pc="268445444" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;savePosition&gt;"/>
+        <entry filename="/Users/augustefleury/Code/myGarminWatchFace/myGarminWatchFace/source/myGarminWatchFaceView.mc" id="60" lineNum="275" parent="globals/myGarminWatchFaceView" pc="268445464" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;savePosition&gt;"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry field="true" id="8391855" symbol="vo2maxRunning"/>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="56" method="true" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawWeekdays&gt;"/>
+        <entry id="70" method="true" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;rotated&gt;"/>
+        <entry field="true" id="19" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;_disc&gt;"/>
+        <entry field="true" id="32" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;_r&gt;"/>
+        <entry id="71" method="true" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;roundArc&gt;"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry field="true" id="29" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;_ink&gt;"/>
+        <entry id="10" symbol="MONTHS"/>
+        <entry id="86" symbol="temp"/>
+        <entry field="true" id="30" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;_lume&gt;"/>
+        <entry field="true" id="21" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;_fLabel&gt;"/>
+        <entry id="8389683" method="true" symbol="onSettingsChanged"/>
+        <entry id="53" method="true" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawStar&gt;"/>
+        <entry id="8389702" method="true" symbol="getHeartRateHistory"/>
+        <entry field="true" id="34" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;_vector&gt;"/>
+        <entry id="8392220" method="true" symbol="getVectorFont"/>
+        <entry field="true" id="12" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;_buffer&gt;"/>
+        <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry field="true" id="23" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;_fRing&gt;"/>
+        <entry id="8388647" module="true" symbol="UserProfile"/>
+        <entry id="47" method="true" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMoon&gt;"/>
+        <entry field="true" id="33" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;_sleeping&gt;"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="8389108" method="true" symbol="onResponse"/>
+        <entry id="49" method="true" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSector&gt;"/>
+        <entry field="true" id="8388782" method="true" symbol="size"/>
+        <entry field="true" id="81" symbol="AppName"/>
+        <entry id="8388633" module="true" symbol="ActivityMonitor"/>
+        <entry id="4" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388631" module="true" symbol="Activity"/>
+        <entry id="8390147" object="true" symbol="ServiceDelegate"/>
+        <entry id="6" object="true" symbol="myGarminWatchFaceApp"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry field="true" id="27" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;_handDark&gt;"/>
+        <entry id="58" method="true" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;getHeartRate&gt;"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8390148" method="true" symbol="onTemporalEvent"/>
+        <entry id="59" method="true" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;getSleepScore&gt;"/>
+        <entry field="true" id="8" symbol="&lt;globals/myGarminWatchFaceApp/&lt;&gt;_view&gt;"/>
+        <entry id="52" method="true" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleepScore&gt;"/>
+        <entry id="44" method="true" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHeartRate&gt;"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="62" method="true" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;gradientArc&gt;"/>
+        <entry id="5" object="true" symbol="TemperatureService"/>
+        <entry field="true" id="28" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;_handLight&gt;"/>
+        <entry id="8391731" method="true" symbol="createColor"/>
+        <entry id="39" method="true" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawFace&gt;"/>
+        <entry id="8391489" module="true" symbol="Weather"/>
+        <entry id="37" method="true" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawDate&gt;"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry field="true" id="8389067" symbol="height"/>
+        <entry id="8390169" method="true" symbol="getServiceDelegate"/>
+        <entry id="8389275" method="true" symbol="getApp"/>
+        <entry field="true" id="8389066" symbol="width"/>
+        <entry id="43" method="true" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHeartIcon&gt;"/>
+        <entry id="68" method="true" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;radialLine&gt;"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry id="65" method="true" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadSettings&gt;"/>
+        <entry id="57" method="true" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;gaugeColor&gt;"/>
+        <entry field="true" id="11" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;_accent&gt;"/>
+        <entry id="64" method="true" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadFonts&gt;"/>
+        <entry field="true" id="79" symbol="AccentRed"/>
+        <entry id="46" method="true" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMonths&gt;"/>
+        <entry id="69" method="true" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;ringText&gt;"/>
+        <entry id="8388637" module="true" symbol="Communications"/>
+        <entry field="true" id="75" symbol="AccentBlue"/>
+        <entry id="50" method="true" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleep&gt;"/>
+        <entry field="true" id="31" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;_muted&gt;"/>
+        <entry field="true" id="25" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;_fValueBig&gt;"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="8390170" method="true" symbol="onBackgroundData"/>
+        <entry id="8389844" symbol="responseType"/>
+        <entry field="true" id="13" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;_bufferKey&gt;"/>
+        <entry id="9" symbol="DAYS"/>
+        <entry field="true" id="78" symbol="AccentOrange"/>
+        <entry id="54" method="true" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawThermometer&gt;"/>
+        <entry id="8388786" method="true" symbol="method"/>
+        <entry field="true" id="24" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;_fValue&gt;"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry field="true" id="83" symbol="ThemeLight"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry field="true" id="80" symbol="AccentTitle"/>
+        <entry id="8392219" symbol="face"/>
+        <entry id="8391770" method="true" symbol="createBufferedBitmap"/>
+        <entry field="true" id="18" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;_dirty&gt;"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry field="true" id="20" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;_discRim&gt;"/>
+        <entry field="true" id="74" symbol="LauncherIcon"/>
+        <entry id="42" method="true" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHands&gt;"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8392214" method="true" symbol="drawRadialText"/>
+        <entry id="63" method="true" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;hsv&gt;"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8391962" module="true" symbol="Complications"/>
+        <entry id="61" method="true" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;getVo2Max&gt;"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8390146" module="true" symbol="Background"/>
+        <entry field="true" id="77" symbol="AccentGreen"/>
+        <entry id="38" method="true" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawDisc&gt;"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="73" method="true" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;vectorFont&gt;"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="55" method="true" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawTrack&gt;"/>
+        <entry id="8388641" module="true" symbol="Math"/>
+        <entry id="40" method="true" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawGauge&gt;"/>
+        <entry id="7" object="true" symbol="myGarminWatchFaceView"/>
+        <entry field="true" id="16" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;_dial&gt;"/>
+        <entry field="true" id="22" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;_fNumeral&gt;"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="72" method="true" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;savePosition&gt;"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="67" method="true" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;polarAt&gt;"/>
+        <entry id="66" method="true" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;polar&gt;"/>
+        <entry field="true" id="17" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;_dialInner&gt;"/>
+        <entry field="true" id="76" symbol="AccentGold"/>
+        <entry field="true" id="15" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;_cy&gt;"/>
+        <entry field="true" id="14" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;_cx&gt;"/>
+        <entry field="true" id="84" symbol="ThemeTitle"/>
+        <entry id="35" method="true" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;clamp01&gt;"/>
+        <entry id="8388642" module="true" symbol="Position"/>
+        <entry id="45" method="true" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHeartRateDisc&gt;"/>
+        <entry field="true" id="82" symbol="ThemeDark"/>
+        <entry id="51" method="true" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleepHand&gt;"/>
+        <entry field="true" id="26" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;_grid&gt;"/>
+        <entry id="48" method="true" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawNumerals&gt;"/>
+        <entry id="36" method="true" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawBattery&gt;"/>
+        <entry id="60" method="true" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;getTemperature&gt;"/>
+        <entry field="true" id="8391856" symbol="vo2maxCycling"/>
+        <entry id="85" symbol="vo2"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry id="41" method="true" symbol="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHand&gt;"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435660" name="code" stackId="1" startPc="268435481"/>
+        <entry arg="true" endPc="268435660" name="data" stackId="2" startPc="268435481"/>
+        <entry endPc="268435659" name="temp" stackId="3" startPc="268435484"/>
+        <entry endPc="268435545" name="current" stackId="4" startPc="268435511"/>
+        <entry endPc="268435846" name="lat" stackId="1" startPc="268435664"/>
+        <entry endPc="268435846" name="lon" stackId="2" startPc="268435664"/>
+        <entry arg="true" endPc="268436114" name="data" stackId="1" startPc="268436034"/>
+        <entry arg="true" endPc="268436269" name="dc" stackId="1" startPc="268436168"/>
+        <entry endPc="268436268" name="h" stackId="2" startPc="268436200"/>
+        <entry endPc="268436258" name="p" stackId="3" startPc="268436200"/>
+        <entry arg="true" endPc="268436530" name="dc" stackId="1" startPc="268436270"/>
+        <entry arg="true" endPc="268436530" name="x" stackId="2" startPc="268436270"/>
+        <entry arg="true" endPc="268436530" name="y" stackId="3" startPc="268436270"/>
+        <entry arg="true" endPc="268436530" name="s" stackId="4" startPc="268436270"/>
+        <entry arg="true" endPc="268436695" name="dc" stackId="1" startPc="268436531"/>
+        <entry arg="true" endPc="268436695" name="dayOfWeek" stackId="2" startPc="268436531"/>
+        <entry endPc="268436694" name="current" stackId="3" startPc="268436534"/>
+        <entry endPc="268436694" name="i" stackId="4" startPc="268436555"/>
+        <entry endPc="268436684" name="angle" stackId="5" startPc="268436555"/>
+        <entry endPc="268436684" name="dot" stackId="6" startPc="268436638"/>
+        <entry arg="true" endPc="268437034" name="dc" stackId="1" startPc="268436696"/>
+        <entry arg="true" endPc="268437034" name="x" stackId="2" startPc="268436696"/>
+        <entry arg="true" endPc="268437034" name="y" stackId="3" startPc="268436696"/>
+        <entry arg="true" endPc="268437034" name="score" stackId="4" startPc="268436696"/>
+        <entry endPc="268437033" name="radius" stackId="5" startPc="268436699"/>
+        <entry endPc="268437033" name="violet" stackId="6" startPc="268436699"/>
+        <entry endPc="268437033" name="by" stackId="7" startPc="268436699"/>
+        <entry arg="true" endPc="268437241" name="dc" stackId="1" startPc="268437035"/>
+        <entry arg="true" endPc="268437241" name="x" stackId="2" startPc="268437035"/>
+        <entry arg="true" endPc="268437241" name="y" stackId="3" startPc="268437035"/>
+        <entry arg="true" endPc="268437241" name="s" stackId="4" startPc="268437035"/>
+        <entry arg="true" endPc="268437241" name="color" stackId="5" startPc="268437035"/>
+        <entry arg="true" endPc="268437301" name="dc" stackId="1" startPc="268437242"/>
+        <entry arg="true" endPc="268437301" name="angleDeg" stackId="2" startPc="268437242"/>
+        <entry arg="true" endPc="268437301" name="r1" stackId="3" startPc="268437242"/>
+        <entry arg="true" endPc="268437301" name="r2" stackId="4" startPc="268437242"/>
+        <entry endPc="268437300" name="p1" stackId="5" startPc="268437245"/>
+        <entry endPc="268437300" name="p2" stackId="6" startPc="268437245"/>
+        <entry arg="true" endPc="268437388" name="dc" stackId="1" startPc="268437320"/>
+        <entry arg="true" endPc="268437388" name="x" stackId="2" startPc="268437320"/>
+        <entry arg="true" endPc="268437388" name="y" stackId="3" startPc="268437320"/>
+        <entry arg="true" endPc="268437388" name="radius" stackId="4" startPc="268437320"/>
+        <entry arg="true" endPc="268437388" name="width" stackId="5" startPc="268437320"/>
+        <entry arg="true" endPc="268437388" name="fromDeg" stackId="6" startPc="268437320"/>
+        <entry arg="true" endPc="268437388" name="toDeg" stackId="7" startPc="268437320"/>
+        <entry arg="true" endPc="268437388" name="color" stackId="8" startPc="268437320"/>
+        <entry arg="true" endPc="268437601" name="dc" stackId="1" startPc="268437389"/>
+        <entry arg="true" endPc="268437601" name="x" stackId="2" startPc="268437389"/>
+        <entry arg="true" endPc="268437601" name="y" stackId="3" startPc="268437389"/>
+        <entry arg="true" endPc="268437601" name="radius" stackId="4" startPc="268437389"/>
+        <entry endPc="268437600" name="hr" stackId="5" startPc="268437392"/>
+        <entry endPc="268437481" name="ratio" stackId="6" startPc="268437406"/>
+        <entry arg="true" endPc="268437642" name="faces" stackId="1" startPc="268437602"/>
+        <entry arg="true" endPc="268437642" name="size" stackId="2" startPc="268437602"/>
+        <entry arg="true" endPc="268437680" name="v" stackId="1" startPc="268437643"/>
+        <entry arg="true" endPc="268437871" name="dc" stackId="1" startPc="268437681"/>
+        <entry arg="true" endPc="268437871" name="x" stackId="2" startPc="268437681"/>
+        <entry arg="true" endPc="268437871" name="y" stackId="3" startPc="268437681"/>
+        <entry arg="true" endPc="268437871" name="radius" stackId="4" startPc="268437681"/>
+        <entry arg="true" endPc="268437871" name="width" stackId="5" startPc="268437681"/>
+        <entry arg="true" endPc="268437871" name="kind" stackId="6" startPc="268437681"/>
+        <entry arg="true" endPc="268437871" name="ratio" stackId="7" startPc="268437681"/>
+        <entry endPc="268437870" name="span" stackId="8" startPc="268437684"/>
+        <entry endPc="268437870" name="steps" stackId="9" startPc="268437684"/>
+        <entry endPc="268437870" name="end" stackId="10" startPc="268437684"/>
+        <entry endPc="268437858" name="i" stackId="11" startPc="268437739"/>
+        <entry endPc="268437848" name="a0" stackId="12" startPc="268437739"/>
+        <entry endPc="268437848" name="a1" stackId="13" startPc="268437739"/>
+        <entry arg="true" endPc="268437927" name="dc" stackId="1" startPc="268437872"/>
+        <entry endPc="268438004" name="profile" stackId="1" startPc="268437931"/>
+        <entry arg="true" endPc="268438074" name="kind" stackId="1" startPc="268438005"/>
+        <entry arg="true" endPc="268438074" name="t" stackId="2" startPc="268438005"/>
+        <entry arg="true" endPc="268438340" name="dc" stackId="1" startPc="268438075"/>
+        <entry endPc="268438339" name="inner" stackId="2" startPc="268438078"/>
+        <entry endPc="268438249" name="i" stackId="3" startPc="268438217"/>
+        <entry endPc="268438308" name="i" stackId="4" startPc="268438261"/>
+        <entry endPc="268438651" name="accent" stackId="1" startPc="268438344"/>
+        <entry endPc="268438651" name="theme" stackId="2" startPc="268438344"/>
+        <entry arg="true" endPc="268439052" name="dc" stackId="1" startPc="268438675"/>
+        <entry arg="true" endPc="268439052" name="x" stackId="2" startPc="268438675"/>
+        <entry arg="true" endPc="268439052" name="y" stackId="3" startPc="268438675"/>
+        <entry arg="true" endPc="268439052" name="level" stackId="4" startPc="268438675"/>
+        <entry endPc="268439051" name="radius" stackId="5" startPc="268438678"/>
+        <entry endPc="268439051" name="color" stackId="6" startPc="268438678"/>
+        <entry endPc="268439051" name="by" stackId="7" startPc="268438678"/>
+        <entry endPc="268439051" name="w" stackId="8" startPc="268438678"/>
+        <entry endPc="268439051" name="h" stackId="9" startPc="268438678"/>
+        <entry endPc="268439244" name="temp" stackId="1" startPc="268439056"/>
+        <entry endPc="268439244" name="at" stackId="2" startPc="268439056"/>
+        <entry endPc="268439244" name="conditions" stackId="3" startPc="268439056"/>
+        <entry arg="true" endPc="268439403" name="dc" stackId="1" startPc="268439245"/>
+        <entry arg="true" endPc="268439403" name="day" stackId="2" startPc="268439245"/>
+        <entry endPc="268439402" name="y" stackId="3" startPc="268439248"/>
+        <entry endPc="268439402" name="radius" stackId="4" startPc="268439248"/>
+        <entry arg="true" endPc="268439697" name="dc" stackId="1" startPc="268439404"/>
+        <entry arg="true" endPc="268439697" name="angleDeg" stackId="2" startPc="268439404"/>
+        <entry arg="true" endPc="268439697" name="length" stackId="3" startPc="268439404"/>
+        <entry arg="true" endPc="268439697" name="width" stackId="4" startPc="268439404"/>
+        <entry endPc="268439696" name="w" stackId="5" startPc="268439407"/>
+        <entry endPc="268439696" name="tail" stackId="6" startPc="268439407"/>
+        <entry endPc="268439696" name="shape" stackId="7" startPc="268439407"/>
+        <entry endPc="268439684" name="i" stackId="8" startPc="268439622"/>
+        <entry endPc="268439674" name="a" stackId="9" startPc="268439622"/>
+        <entry endPc="268439674" name="b" stackId="10" startPc="268439622"/>
+        <entry arg="true" endPc="268439826" name="dc" stackId="1" startPc="268439698"/>
+        <entry arg="true" endPc="268439826" name="text" stackId="2" startPc="268439698"/>
+        <entry arg="true" endPc="268439826" name="angleDeg" stackId="3" startPc="268439698"/>
+        <entry arg="true" endPc="268439826" name="radius" stackId="4" startPc="268439698"/>
+        <entry endPc="268439786" name="bottom" stackId="5" startPc="268439720"/>
+        <entry endPc="268439825" name="p" stackId="6" startPc="268439788"/>
+        <entry arg="true" endPc="268440147" name="dc" stackId="1" startPc="268439827"/>
+        <entry endPc="268440065" name="i" stackId="2" startPc="268439955"/>
+        <entry arg="true" endPc="268440384" name="h" stackId="1" startPc="268440148"/>
+        <entry arg="true" endPc="268440384" name="s" stackId="2" startPc="268440148"/>
+        <entry arg="true" endPc="268440384" name="v" stackId="3" startPc="268440148"/>
+        <entry endPc="268440384" name="c" stackId="4" startPc="268440151"/>
+        <entry endPc="268440384" name="hp" stackId="5" startPc="268440151"/>
+        <entry endPc="268440384" name="f" stackId="6" startPc="268440151"/>
+        <entry endPc="268440384" name="x" stackId="7" startPc="268440151"/>
+        <entry endPc="268440384" name="r" stackId="8" startPc="268440151"/>
+        <entry endPc="268440384" name="g" stackId="9" startPc="268440151"/>
+        <entry endPc="268440384" name="b" stackId="10" startPc="268440151"/>
+        <entry endPc="268440384" name="m" stackId="11" startPc="268440151"/>
+        <entry endPc="268440617" name="numeral" stackId="1" startPc="268440388"/>
+        <entry endPc="268440617" name="value" stackId="2" startPc="268440388"/>
+        <entry endPc="268440617" name="valueBig" stackId="3" startPc="268440388"/>
+        <entry endPc="268440617" name="label" stackId="4" startPc="268440388"/>
+        <entry endPc="268440617" name="ring" stackId="5" startPc="268440388"/>
+        <entry endPc="268440726" name="info" stackId="1" startPc="268440622"/>
+        <entry endPc="268440724" name="sample" stackId="2" startPc="268440674"/>
+        <entry arg="true" endPc="268440830" name="dc" stackId="1" startPc="268440727"/>
+        <entry arg="true" endPc="268440830" name="x" stackId="2" startPc="268440727"/>
+        <entry arg="true" endPc="268440830" name="y" stackId="3" startPc="268440727"/>
+        <entry arg="true" endPc="268440830" name="radius" stackId="4" startPc="268440727"/>
+        <entry arg="true" endPc="268440903" name="x" stackId="1" startPc="268440831"/>
+        <entry arg="true" endPc="268440903" name="y" stackId="2" startPc="268440831"/>
+        <entry arg="true" endPc="268440903" name="angleDeg" stackId="3" startPc="268440831"/>
+        <entry arg="true" endPc="268440903" name="radius" stackId="4" startPc="268440831"/>
+        <entry endPc="268440903" name="a" stackId="5" startPc="268440834"/>
+        <entry arg="true" endPc="268441640" name="dc" stackId="1" startPc="268440904"/>
+        <entry arg="true" endPc="268441640" name="x" stackId="2" startPc="268440904"/>
+        <entry arg="true" endPc="268441640" name="y" stackId="3" startPc="268440904"/>
+        <entry arg="true" endPc="268441640" name="radius" stackId="4" startPc="268440904"/>
+        <entry endPc="268441639" name="days" stackId="5" startPc="268440907"/>
+        <entry endPc="268441639" name="phase" stackId="6" startPc="268440907"/>
+        <entry endPc="268441639" name="k" stackId="7" startPc="268440907"/>
+        <entry endPc="268441639" name="side" stackId="8" startPc="268440907"/>
+        <entry endPc="268441639" name="steps" stackId="9" startPc="268440907"/>
+        <entry endPc="268441639" name="limb" stackId="10" startPc="268440907"/>
+        <entry endPc="268441639" name="term" stackId="11" startPc="268440907"/>
+        <entry endPc="268441223" name="i" stackId="12" startPc="268441099"/>
+        <entry endPc="268441213" name="dy" stackId="13" startPc="268441099"/>
+        <entry endPc="268441213" name="s" stackId="14" startPc="268441099"/>
+        <entry endPc="268441639" name="dark" stackId="15" startPc="268441451"/>
+        <entry endPc="268441639" name="unlit" stackId="16" startPc="268441451"/>
+        <entry endPc="268441594" name="i" stackId="17" startPc="268441470"/>
+        <entry endPc="268441584" name="dy" stackId="18" startPc="268441470"/>
+        <entry endPc="268441584" name="s" stackId="19" startPc="268441470"/>
+        <entry arg="true" endPc="268441747" name="dc" stackId="1" startPc="268441641"/>
+        <entry arg="true" endPc="268441747" name="x" stackId="2" startPc="268441641"/>
+        <entry arg="true" endPc="268441747" name="y" stackId="3" startPc="268441641"/>
+        <entry arg="true" endPc="268441747" name="radius" stackId="4" startPc="268441641"/>
+        <entry endPc="268441868" name="complication" stackId="1" startPc="268441769"/>
+        <entry endPc="268441868" name="value" stackId="2" startPc="268441769"/>
+        <entry endPc="268441879" name="e" stackId="3" startPc="268441872"/>
+        <entry arg="true" endPc="268441907" name="angleDeg" stackId="1" startPc="268441883"/>
+        <entry arg="true" endPc="268441907" name="radius" stackId="2" startPc="268441883"/>
+        <entry arg="true" endPc="268442036" name="dc" stackId="1" startPc="268441938"/>
+        <entry arg="true" endPc="268442036" name="month" stackId="2" startPc="268441938"/>
+        <entry endPc="268442035" name="m" stackId="3" startPc="268441952"/>
+        <entry arg="true" endPc="268442363" name="dc" stackId="1" startPc="268442037"/>
+        <entry arg="true" endPc="268442363" name="clock" stackId="2" startPc="268442037"/>
+        <entry endPc="268442152" name="h" stackId="3" startPc="268442111"/>
+        <entry endPc="268442362" name="minuteAngle" stackId="4" startPc="268442040"/>
+        <entry endPc="268442362" name="hourAngle" stackId="5" startPc="268442040"/>
+        <entry arg="true" endPc="268443042" name="dc" stackId="1" startPc="268442364"/>
+        <entry arg="true" endPc="268443042" name="angleDeg" stackId="2" startPc="268442364"/>
+        <entry arg="true" endPc="268443042" name="length" stackId="3" startPc="268442364"/>
+        <entry arg="true" endPc="268443042" name="width" stackId="4" startPc="268442364"/>
+        <entry arg="true" endPc="268443042" name="shadow" stackId="5" startPc="268442364"/>
+        <entry endPc="268443041" name="w" stackId="6" startPc="268442367"/>
+        <entry endPc="268443041" name="tail" stackId="7" startPc="268442367"/>
+        <entry endPc="268443041" name="left" stackId="8" startPc="268442367"/>
+        <entry endPc="268443041" name="right" stackId="9" startPc="268442367"/>
+        <entry endPc="268442775" name="outline" stackId="10" startPc="268442583"/>
+        <entry endPc="268443041" name="lw" stackId="11" startPc="268442367"/>
+        <entry endPc="268443041" name="insert" stackId="12" startPc="268442367"/>
+        <entry arg="true" endPc="268443205" name="points" stackId="1" startPc="268443043"/>
+        <entry arg="true" endPc="268443205" name="angleDeg" stackId="2" startPc="268443043"/>
+        <entry arg="true" endPc="268443205" name="dx" stackId="3" startPc="268443043"/>
+        <entry arg="true" endPc="268443205" name="dy" stackId="4" startPc="268443043"/>
+        <entry endPc="268443205" name="a" stackId="5" startPc="268443046"/>
+        <entry endPc="268443205" name="c" stackId="6" startPc="268443046"/>
+        <entry endPc="268443205" name="s" stackId="7" startPc="268443046"/>
+        <entry endPc="268443205" name="out" stackId="8" startPc="268443046"/>
+        <entry endPc="268443202" name="i" stackId="9" startPc="268443114"/>
+        <entry endPc="268443192" name="px" stackId="10" startPc="268443114"/>
+        <entry endPc="268443192" name="py" stackId="11" startPc="268443114"/>
+        <entry arg="true" endPc="268443761" name="dc" stackId="1" startPc="268443206"/>
+        <entry endPc="268443760" name="today" stackId="2" startPc="268443209"/>
+        <entry endPc="268443760" name="vo2" stackId="3" startPc="268443209"/>
+        <entry endPc="268443760" name="temp" stackId="4" startPc="268443209"/>
+        <entry endPc="268443760" name="stats" stackId="5" startPc="268443209"/>
+        <entry arg="true" endPc="268444095" name="dc" stackId="1" startPc="268443762"/>
+        <entry arg="true" endPc="268444095" name="x" stackId="2" startPc="268443762"/>
+        <entry arg="true" endPc="268444095" name="y" stackId="3" startPc="268443762"/>
+        <entry arg="true" endPc="268444095" name="radius" stackId="4" startPc="268443762"/>
+        <entry arg="true" endPc="268444095" name="ratio" stackId="5" startPc="268443762"/>
+        <entry arg="true" endPc="268444095" name="value" stackId="6" startPc="268443762"/>
+        <entry arg="true" endPc="268444095" name="kind" stackId="7" startPc="268443762"/>
+        <entry endPc="268444094" name="arcR" stackId="8" startPc="268443765"/>
+        <entry endPc="268443869" name="r" stackId="9" startPc="268443824"/>
+        <entry endPc="268444094" name="iy" stackId="10" startPc="268443765"/>
+        <entry endPc="268444094" name="labelColor" stackId="11" startPc="268443765"/>
+        <entry arg="true" endPc="268444586" name="dc" stackId="1" startPc="268444096"/>
+        <entry arg="true" endPc="268444586" name="clock" stackId="2" startPc="268444096"/>
+        <entry arg="true" endPc="268444586" name="withSeconds" stackId="3" startPc="268444096"/>
+        <entry endPc="268444585" name="minuteAngle" stackId="4" startPc="268444099"/>
+        <entry endPc="268444585" name="hourAngle" stackId="5" startPc="268444099"/>
+        <entry endPc="268444468" name="angle" stackId="6" startPc="268444209"/>
+        <entry endPc="268444468" name="tip" stackId="7" startPc="268444209"/>
+        <entry endPc="268444468" name="tail" stackId="8" startPc="268444209"/>
+        <entry endPc="268444468" name="lolly" stackId="9" startPc="268444209"/>
+        <entry endPc="268444468" name="weight" stackId="10" startPc="268444209"/>
+        <entry arg="true" endPc="268444777" name="dc" stackId="1" startPc="268444609"/>
+        <entry arg="true" endPc="268444777" name="x" stackId="2" startPc="268444609"/>
+        <entry arg="true" endPc="268444777" name="y" stackId="3" startPc="268444609"/>
+        <entry arg="true" endPc="268444777" name="s" stackId="4" startPc="268444609"/>
+        <entry arg="true" endPc="268444777" name="color" stackId="5" startPc="268444609"/>
+        <entry arg="true" endPc="268445142" name="dc" stackId="1" startPc="268444778"/>
+        <entry endPc="268445141" name="clock" stackId="2" startPc="268444781"/>
+        <entry endPc="268445141" name="key" stackId="3" startPc="268444781"/>
+        <entry endPc="268445053" name="bitmap" stackId="4" startPc="268444866"/>
+        <entry endPc="268445036" name="bdc" stackId="5" startPc="268444988"/>
+        <entry endPc="268445483" name="loc" stackId="1" startPc="268445146"/>
+        <entry endPc="268445483" name="info" stackId="2" startPc="268445146"/>
+        <entry endPc="268445278" name="conditions" stackId="3" startPc="268445252"/>
+        <entry endPc="268445483" name="deg" stackId="4" startPc="268445146"/>
+        <entry endPc="268445483" name="lat" stackId="5" startPc="268445146"/>
+        <entry endPc="268445483" name="lon" stackId="6" startPc="268445146"/>
+        <entry endPc="268445483" name="oldLat" stackId="7" startPc="268445146"/>
+        <entry endPc="268445483" name="oldLon" stackId="8" startPc="268445146"/>
+    </localVars>
+    <deviceInfo deviceVersion="69f9c27a08d175c50b86464a70c24d15718945cb" partNumber="006-B4631-00"/>
+    <annotations>
+        <annotationEntry annotation="background" class="myGarminWatchFaceApp" module="globals" symbol="onBackgroundData"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AccentRed"/>
+        <annotationEntry annotation="background" class="myGarminWatchFaceApp" module="globals" symbol="onStart"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ThemeDark"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ThemeLight"/>
+        <annotationEntry annotation="background" class="TemperatureService" module="globals" symbol="onResponse"/>
+        <annotationEntry annotation="background" class="myGarminWatchFaceApp" module="globals" symbol="getServiceDelegate"/>
+        <annotationEntry annotation="background" class="myGarminWatchFaceApp" module="globals" symbol="getInitialView"/>
+        <annotationEntry annotation="background" class="myGarminWatchFaceApp" module="globals" symbol="initialize"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AccentBlue"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AccentGreen"/>
+        <annotationEntry annotation="background" class="myGarminWatchFaceApp" module="globals" symbol="_view"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ThemeTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AccentOrange"/>
+        <annotationEntry annotation="background" class="TemperatureService" module="globals" symbol="initialize"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AccentTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AccentGold"/>
+        <annotationEntry annotation="background" class="TemperatureService" module="globals" symbol="onTemporalEvent"/>
+        <annotationEntry annotation="background" class="myGarminWatchFaceApp" module="globals" symbol="onSettingsChanged"/>
+        <annotationEntry annotation="background" class="myGarminWatchFaceApp" module="globals" symbol="onStop"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="49" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/TemperatureService" offset="125" parentId="globals" symbolId="TemperatureService" type="class"/>
+        <dataEntry label="globals/myGarminWatchFaceApp" offset="187" parentId="globals" symbolId="myGarminWatchFaceApp" type="class"/>
+        <dataEntry label="globals/Rez" offset="535" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/myGarminWatchFaceView" offset="579" parentId="globals" symbolId="myGarminWatchFaceView" type="class"/>
+        <dataEntry label="globals/Rez/Drawables" offset="1253" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="1288" parentId="Rez" symbolId="Strings" type="module"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435468" name="&lt;init&gt;" parent="TemperatureService" startPc="268435457">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435480" name="&lt;init&gt;" parent="myGarminWatchFaceApp" startPc="268435469">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435660" name="onResponse" parent="TemperatureService" startPc="268435481">
+            <param id="code"/>
+            <param id="data"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435847" name="onTemporalEvent" parent="TemperatureService" startPc="268435661">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435862" name="initialize" parent="TemperatureService" startPc="268435848">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="myGarminWatchFaceApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435897" name="onSettingsChanged" parent="myGarminWatchFaceApp" startPc="268435863">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435925" name="getServiceDelegate" parent="myGarminWatchFaceApp" startPc="268435898">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436018" name="getInitialView" parent="myGarminWatchFaceApp" startPc="268435926">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436033" name="initialize" parent="myGarminWatchFaceApp" startPc="268436019">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436114" name="onBackgroundData" parent="myGarminWatchFaceApp" startPc="268436034">
+            <param id="data"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="myGarminWatchFaceApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436135" name="getApp" startPc="268436115">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436155" name="&lt;init&gt;" parent="Rez" startPc="268436136">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436167" name="&lt;init&gt;" parent="myGarminWatchFaceView" startPc="268436156">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268436269" name="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawNumerals&gt;" parent="myGarminWatchFaceView" startPc="268436168">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268436530" name="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawStar&gt;" parent="myGarminWatchFaceView" startPc="268436270">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <param id="s"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268436695" name="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawWeekdays&gt;" parent="myGarminWatchFaceView" startPc="268436531">
+            <param id="dc"/>
+            <param id="dayOfWeek"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268437034" name="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleepScore&gt;" parent="myGarminWatchFaceView" startPc="268436696">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <param id="score"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268437241" name="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHeartIcon&gt;" parent="myGarminWatchFaceView" startPc="268437035">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <param id="s"/>
+            <param id="color"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268437301" name="&lt;globals/myGarminWatchFaceView/&lt;&gt;radialLine&gt;" parent="myGarminWatchFaceView" startPc="268437242">
+            <param id="dc"/>
+            <param id="angleDeg"/>
+            <param id="r1"/>
+            <param id="r2"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437319" name="onSettingsChanged" parent="myGarminWatchFaceView" startPc="268437302">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268437388" name="&lt;globals/myGarminWatchFaceView/&lt;&gt;roundArc&gt;" parent="myGarminWatchFaceView" startPc="268437320">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <param id="radius"/>
+            <param id="width"/>
+            <param id="fromDeg"/>
+            <param id="toDeg"/>
+            <param id="color"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268437601" name="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHeartRate&gt;" parent="myGarminWatchFaceView" startPc="268437389">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <param id="radius"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268437642" name="&lt;globals/myGarminWatchFaceView/&lt;&gt;vectorFont&gt;" parent="myGarminWatchFaceView" startPc="268437602">
+            <param id="faces"/>
+            <param id="size"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268437680" name="&lt;globals/myGarminWatchFaceView/&lt;&gt;clamp01&gt;" parent="myGarminWatchFaceView" startPc="268437643">
+            <param id="v"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268437871" name="&lt;globals/myGarminWatchFaceView/&lt;&gt;gradientArc&gt;" parent="myGarminWatchFaceView" startPc="268437681">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <param id="radius"/>
+            <param id="width"/>
+            <param id="kind"/>
+            <param id="ratio"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437927" name="onLayout" parent="myGarminWatchFaceView" startPc="268437872">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268438004" name="&lt;globals/myGarminWatchFaceView/&lt;&gt;getVo2Max&gt;" parent="myGarminWatchFaceView" startPc="268437928">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268438074" name="&lt;globals/myGarminWatchFaceView/&lt;&gt;gaugeColor&gt;" parent="myGarminWatchFaceView" startPc="268438005">
+            <param id="kind"/>
+            <param id="t"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268438340" name="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSector&gt;" parent="myGarminWatchFaceView" startPc="268438075">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268438652" name="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadSettings&gt;" parent="myGarminWatchFaceView" startPc="268438341">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438674" name="onEnterSleep" parent="myGarminWatchFaceView" startPc="268438653">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268439052" name="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawBattery&gt;" parent="myGarminWatchFaceView" startPc="268438675">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <param id="level"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268439244" name="&lt;globals/myGarminWatchFaceView/&lt;&gt;getTemperature&gt;" parent="myGarminWatchFaceView" startPc="268439053">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268439403" name="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawDate&gt;" parent="myGarminWatchFaceView" startPc="268439245">
+            <param id="dc"/>
+            <param id="day"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268439697" name="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleepHand&gt;" parent="myGarminWatchFaceView" startPc="268439404">
+            <param id="dc"/>
+            <param id="angleDeg"/>
+            <param id="length"/>
+            <param id="width"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268439826" name="&lt;globals/myGarminWatchFaceView/&lt;&gt;ringText&gt;" parent="myGarminWatchFaceView" startPc="268439698">
+            <param id="dc"/>
+            <param id="text"/>
+            <param id="angleDeg"/>
+            <param id="radius"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268440147" name="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawTrack&gt;" parent="myGarminWatchFaceView" startPc="268439827">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268440384" name="&lt;globals/myGarminWatchFaceView/&lt;&gt;hsv&gt;" parent="myGarminWatchFaceView" startPc="268440148">
+            <param id="h"/>
+            <param id="s"/>
+            <param id="v"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268440618" name="&lt;globals/myGarminWatchFaceView/&lt;&gt;loadFonts&gt;" parent="myGarminWatchFaceView" startPc="268440385">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268440726" name="&lt;globals/myGarminWatchFaceView/&lt;&gt;getHeartRate&gt;" parent="myGarminWatchFaceView" startPc="268440619">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268440830" name="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHeartRateDisc&gt;" parent="myGarminWatchFaceView" startPc="268440727">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <param id="radius"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268440903" name="&lt;globals/myGarminWatchFaceView/&lt;&gt;polarAt&gt;" parent="myGarminWatchFaceView" startPc="268440831">
+            <param id="x"/>
+            <param id="y"/>
+            <param id="angleDeg"/>
+            <param id="radius"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268441640" name="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMoon&gt;" parent="myGarminWatchFaceView" startPc="268440904">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <param id="radius"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268441747" name="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawDisc&gt;" parent="myGarminWatchFaceView" startPc="268441641">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <param id="radius"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268441882" name="&lt;globals/myGarminWatchFaceView/&lt;&gt;getSleepScore&gt;" parent="myGarminWatchFaceView" startPc="268441748">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268441907" name="&lt;globals/myGarminWatchFaceView/&lt;&gt;polar&gt;" parent="myGarminWatchFaceView" startPc="268441883">
+            <param id="angleDeg"/>
+            <param id="radius"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268441937" name="onExitSleep" parent="myGarminWatchFaceView" startPc="268441908">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268442036" name="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawMonths&gt;" parent="myGarminWatchFaceView" startPc="268441938">
+            <param id="dc"/>
+            <param id="month"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268442363" name="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawSleep&gt;" parent="myGarminWatchFaceView" startPc="268442037">
+            <param id="dc"/>
+            <param id="clock"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268443042" name="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHand&gt;" parent="myGarminWatchFaceView" startPc="268442364">
+            <param id="dc"/>
+            <param id="angleDeg"/>
+            <param id="length"/>
+            <param id="width"/>
+            <param id="shadow"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268443205" name="&lt;globals/myGarminWatchFaceView/&lt;&gt;rotated&gt;" parent="myGarminWatchFaceView" startPc="268443043">
+            <param id="points"/>
+            <param id="angleDeg"/>
+            <param id="dx"/>
+            <param id="dy"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268443761" name="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawFace&gt;" parent="myGarminWatchFaceView" startPc="268443206">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268444095" name="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawGauge&gt;" parent="myGarminWatchFaceView" startPc="268443762">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <param id="radius"/>
+            <param id="ratio"/>
+            <param id="value"/>
+            <param id="kind"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268444586" name="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawHands&gt;" parent="myGarminWatchFaceView" startPc="268444096">
+            <param id="dc"/>
+            <param id="clock"/>
+            <param id="withSeconds"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268444608" name="initialize" parent="myGarminWatchFaceView" startPc="268444587">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268444777" name="&lt;globals/myGarminWatchFaceView/&lt;&gt;drawThermometer&gt;" parent="myGarminWatchFaceView" startPc="268444609">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <param id="s"/>
+            <param id="color"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268445142" name="onUpdate" parent="myGarminWatchFaceView" startPc="268444778">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268445484" name="&lt;globals/myGarminWatchFaceView/&lt;&gt;savePosition&gt;" parent="myGarminWatchFaceView" startPc="268445143">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
