@@ -1,0 +1,5 @@
+<drawables xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://developer.garmin.com/downloads/connect-iq/resources.xsd">
+    <!-- Nombres en Telma pré-rendus par tools/render_numbers.py -->
+    <bitmap id="Hours" filename="hours.png" dithering="none" packingFormat="png" />
+    <bitmap id="Days" filename="days.png" dithering="none" packingFormat="png" />
+</drawables>

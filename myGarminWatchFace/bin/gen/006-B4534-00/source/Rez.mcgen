@@ -704,6 +704,8 @@ module BackgroundRez {
 
 module Rez {
     module Drawables {
+        (:initialized) var Hours as ResourceId;
+        (:initialized) var Days as ResourceId;
         (:initialized) var LauncherIcon as ResourceId;
     } // Drawables
 

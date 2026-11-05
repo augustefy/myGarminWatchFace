@@ -1,0 +1,93 @@
+{
+  "settings" : [ {
+    "key" : "Theme",
+    "valueType" : "number",
+    "defaultValue" : 0,
+    "configTitle" : "ThemeTitle",
+    "configPrompt" : null,
+    "configType" : "list",
+    "configError" : null,
+    "configHelpUrl" : null,
+    "configReadonly" : false,
+    "configRequired" : false,
+    "configOptions" : [ {
+      "display" : "ThemeLight",
+      "value" : 0
+    }, {
+      "display" : "ThemeDark",
+      "value" : 1
+    } ],
+    "configMin" : null,
+    "configMax" : null,
+    "configMaxLength" : null
+  }, {
+    "key" : "AccentColor",
+    "valueType" : "number",
+    "defaultValue" : 16738816,
+    "configTitle" : "AccentTitle",
+    "configPrompt" : null,
+    "configType" : "list",
+    "configError" : null,
+    "configHelpUrl" : null,
+    "configReadonly" : false,
+    "configRequired" : false,
+    "configOptions" : [ {
+      "display" : "AccentOrange",
+      "value" : 16738816
+    }, {
+      "display" : "AccentRed",
+      "value" : 15020589
+    }, {
+      "display" : "AccentBlue",
+      "value" : 3122407
+    }, {
+      "display" : "AccentGreen",
+      "value" : 4179050
+    }, {
+      "display" : "AccentGold",
+      "value" : 13936428
+    } ],
+    "configMin" : null,
+    "configMax" : null,
+    "configMaxLength" : null
+  } ],
+  "supportsLiveValidation" : false,
+  "languages" : {
+    "fra" : {
+      "ThemeLight" : "Clair",
+      "ThemeTitle" : "Cadran",
+      "AccentOrange" : "Orange",
+      "AccentTitle" : "Couleur d'accent",
+      "AccentBlue" : "Bleu",
+      "AccentGreen" : "Vert",
+      "AccentGold" : "Or",
+      "ThemeDark" : "Sombre",
+      "AccentRed" : "Rouge",
+      "AppName" : "myGarminWatchFace"
+    },
+    "fre" : {
+      "ThemeLight" : "Clair",
+      "ThemeTitle" : "Cadran",
+      "AccentOrange" : "Orange",
+      "AccentTitle" : "Couleur d'accent",
+      "AccentBlue" : "Bleu",
+      "AccentGreen" : "Vert",
+      "AccentGold" : "Or",
+      "ThemeDark" : "Sombre",
+      "AccentRed" : "Rouge",
+      "AppName" : "myGarminWatchFace"
+    },
+    "valyrian" : {
+      "ThemeLight" : "Light",
+      "ThemeTitle" : "Dial",
+      "AccentOrange" : "Orange",
+      "AccentTitle" : "Accent color",
+      "AccentBlue" : "Blue",
+      "AccentGreen" : "Green",
+      "AccentGold" : "Gold",
+      "ThemeDark" : "Dark",
+      "AccentRed" : "Red",
+      "AppName" : "myGarminWatchFace"
+    }
+  }
+}
